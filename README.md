@@ -51,9 +51,9 @@
 * [Localizing Image Text Overlays using Cloudinary + 8base](https://dev.to/sebastian_scholl/localizing-image-text-overlays-using-cloudinary-8base-ge2) - Cloudinary's URL API takes a dynamic parameter that applies transformations to the image upon retrieval.
 * [Image Optimization with Cloudinary](https://davidwalsh.name/image-optimization-cloudinary) - We're always looking for ways to improve site speed; we lazy load, minify and concatenate, create sprites, experiment with caching, and just about everything else we can think of. 
 * [Fetch and Transform Remote Images with Cloudinary](https://davidwalsh.name/cloudinary-fetch) - Many of my dives into Cloudinary's amazing API like Instagram-like Filters, Image Security, Custom eCommerce, have started with uploading media (images, video, audio) to Cloudinary and then manipulating from there.
-* []()
-* []()
-* []()
+* [Cloudinary: I rebuilt my portfolio🌻 Now it loads in 1.6s 🎉 Here's how I did](https://dev.to/saurabhdaware/i-rebuilt-my-portfolio-now-it-has-100-lighthouse-score-here-s-how-i-did-477a) - Note: This article is only intended to explain how I am loading my site. These steps may change as per your use case
+* [Japanese: Cloudinary Image Conversion Parameter Summary-Shape and Style](https://dev.classmethod.jp/design/cloudinary-transform-images-shape_style/) - optimization and conversion of images and videos using Cloudinary can be done dynamically according to the parameters in this article.
+* [Services for your JAMstack Application](https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5)
 * []()
 * []()
 * []()
