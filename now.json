@@ -1,0 +1,20 @@
+{
+    "version": 2,
+    "name": "awesome-cloudinary",
+    "builds": [
+      {
+        "src": "*.css",
+        "use": "@now/static"
+      },
+      {
+        "src": "readme.md",
+        "use": "@now/md",
+        "config": {
+          "title": "Awesome Cloudinary",
+          "language": "en",
+          "meta": [{ "name": "description", "content": " A curated list of awesome resources : books, videos, articles about getting started and using Cloudinary (A comprehensive cloud-based image and video management platform)"}],
+          "css": "/style.css"
+        }
+      }
+    ]
+  }
