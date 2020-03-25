@@ -15,7 +15,6 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Videos](#videos)
-- [Apps](#apps)
 - [Tools and Packages](#tools)
 
 
@@ -40,7 +39,7 @@
 * [Implement Smooth Video Buffering for Better Viewing Experience with Cloudinary](https://scotch.io/tutorials/implement-smooth-video-buffering-for-better-viewing-experience-with-cloudinary) - Today, though, users’ patience has run out. They are no longer willing to wait because they know we – the engineers – can afford to give them a better experience.
 * [Build the Back-End For Your Own Instagram-style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary) - Managing media files (processing, storage and manipulation) is one of the biggest challenges we encounter as practical developers.
 * [Use Cloudinary to optimize images](https://web.dev/codelab-cloudinary/) - Learn to use Cloudinary's fetch URL API to optimize images and serve them in next-gen formats.
-* [Lazy loading images with Cloudinary](https://timbenniks.nl/writings/lazy-loading-images-with-cloudinary/) - Lazy loading images is awesome. Doing it with cloudinary is awesomer.
+* [Lazy loading images with Cloudinary](https://timbenniks.nl/writings/lazy-loading-images-with-cloudinary/) - Lazy loading images is awesome. Doing it with cloudinary is awesome.
 * [How I successfully uploaded images to Cloudinary from my Sails App ⛵️](https://codeburst.io/how-i-successfully-uploaded-images-to-cloudinary-from-my-sails-app-%EF%B8%8F-66f5bc643645) - This article is centered on documenting how I set up image uploads to Cloudinary from my Sails web service. Hope it could help you if you are into such things 😉
 * [Responsive images with Cloudinary](https://harrycresswell.com/articles/cloudinary/) - Responsive images are crucial part of improving website performance. But that doesn’t just mean globally setting images to 100% width, height ‘auto’, then calling it a day.
 * [Optimize & Serve Next-Gen Images Just by Changing the Image's URL with Cloudinary's URL API](https://scotch.io/tutorials/optimize-serve-next-gen-images-just-by-changing-the-images-url-with-cloudinarys-url-api) - Learn to use Cloudinary's fetch URL API to optimize images and serve them in next-gen formats. 
@@ -54,71 +53,26 @@
 * [Cloudinary: I rebuilt my portfolio🌻 Now it loads in 1.6s 🎉 Here's how I did](https://dev.to/saurabhdaware/i-rebuilt-my-portfolio-now-it-has-100-lighthouse-score-here-s-how-i-did-477a) - Note: This article is only intended to explain how I am loading my site. These steps may change as per your use case
 * [Japanese: Cloudinary Image Conversion Parameter Summary-Shape and Style](https://dev.classmethod.jp/design/cloudinary-transform-images-shape_style/) - optimization and conversion of images and videos using Cloudinary can be done dynamically according to the parameters in this article.
 * [Services for your JAMstack Application](https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5)
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [​Leveraging React for Easy Image Management with Cloudinary](https://scotch.io/tutorials/leveraging-react-for-easy-image-management-with-cloudinary)
+* [Cloudinary & Herokuapp](https://devcenter.heroku.com/articles/cloudinary)
+* [How to upload a screenshot from Puppeteer to Cloudinary](https://bitsofco.de/how-to-upload-a-screenshot-from-puppeteer-to-cloudinary/)
+* [Responsive Images in WordPress with Cloudinary, Part 2](https://css-tricks.com/responsive-images-wordpress-cloudinary-part-2/)
+* [Using Cloudinary Without the Cloudinary Ruby Gem](https://www.msgtrail.com/articles/20190713-2025-using-cloudinary-without-the-cloudinary-ruby-gem/)
 
 
 ## Books
-* []()
+* [Resizing images and transformations with Cloudinary](https://www.oreilly.com/library/view/mean-cookbook/9781787286573/55c18af7-f0b5-47f1-a78e-06a9e11bc687.xhtml)
 
 ## Videos
-* []()
-* []()
-* []()
-* []()
-* []()
-
-
-
-## Apps
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Understanding Cloudinary Transformations and Pricing Plan](https://cloudinary.com/blog/understanding_cloudinary_s_transformation_quotas)
+* [What is Cloudinary?](https://www.youtube.com/watch?v=cHF2-559EVw)
+* [Image Upload in 15 Minutes with Cloudinary](https://www.youtube.com/watch?v=6uHfIv4981U)
+* [Cloudinary - Image Manipulation Demo](https://www.youtube.com/watch?v=P4FhRuttCgY)
+* [Tutorial - Introduction to Video Uploads](https://www.youtube.com/watch?v=6WBrnrFAOzo)
 
 
 ## Tools
+> List of tools and libraries for Cloudinary
 * [Cloudinary NPM](https://www.npmjs.com/package/cloudinary)
 * [Cloudinary React Library NPM](https://www.npmjs.com/package/cloudinary-react)
 * [Magento Cloudinary Image & Video Management](https://marketplace.magento.com/cloudinary-cloudinary.html)
@@ -133,8 +87,25 @@
 * [Cloudinary + Ghost](https://ghost.org/integrations/cloudinary/)
 * [gatsby-transformer-cloudinary](https://www.gatsbyjs.org/packages/gatsby-transformer-cloudinary/)
 * [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary)
-* []()
-
+* [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress)
+* [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player)
+* [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php)
+* [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli)
+* [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios)
+* [Cloudinary Java](https://github.com/cloudinary/cloudinary_java)
+* [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet)
+* [Cloudinary Magento](https://github.com/cloudinary/cloudinary_magento)
+* [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue)
+* [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem)
+* [Cloudinary Angular](https://github.com/cloudinary/cloudinary_angular)
+* [Cloudinary Kotlin](https://github.com/cloudinary/cloudinary_kotlin)
+* [Wdio-allure-ts](https://github.com/cloudinary/wdio-allure-ts)
+* [Cloudinary Android](https://github.com/cloudinary/cloudinary_android)
+* [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator)
+* [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server)
+* [Cloudinary JS Streaming](https://github.com/cloudinary/cloudinary-js-streaming)
+* [Mailinary](https://github.com/cloudinary/mailinary)
+* [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary)
 
 
 ## Companies
@@ -160,7 +131,21 @@
 * [Sony Corporation](https://www.sony.com/)
 * [WIRED](https://www.wired.com/)
 * [Vogue](https://www.vogue.com/)
-* []()
+* [Apartment Therapy Media](https://www.apartmenttherapy.com/)
+* [Bleacher Report](https://bleacherreport.com/)
+* [Complex Networks](https://www.complexnetworks.com/)
+* [Fairfax Media](https://www.fairfaxmedia.com.au/)
+* [Finalsite](https://www.finalsite.com/)
+* [Hike](https://hike.in/)
+* [Hinge](https://hinge.co/)
+* [Hipcamp](https://www.hipcamp.com/)
+* [HolidayCheck](https://www.holidaycheck.de/)
+* [Jane.com](https://jane.com/)
+* [Kenshoo](https://kenshoo.com/)
+* [Mediavine](https://www.mediavine.com/)
+* [MindBodyGreen](https://www.mindbodygreen.com/)
+* [StubHub](https://www.stubhub.com/)
+* [Stylight](https://www.stylight.com/)
 
 
 ## Contributing
