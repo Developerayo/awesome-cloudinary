@@ -7,7 +7,7 @@
         "use": "@now/static"
       },
       {
-        "src": "readme.md",
+        "src": "*.md",
         "use": "@now/md",
         "config": {
           "title": "Awesome Cloudinary",
