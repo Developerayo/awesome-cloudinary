@@ -9,6 +9,7 @@
       {
         "src": "*.md",
         "use": "@now/md",
+
         "config": {
           "title": "Awesome Cloudinary",
           "language": "en",
