@@ -1,4 +1,4 @@
-<link href="https://gist.githubusercontent.com/Developerayo/6988822e37603161e1de19218b8d97da/raw/93e65c5f581a98f63c4e0c39cbfec74203272ad3/style.css" rel="stylesheet"></link>
+<link rel="stylesheet" type="text/css" media="all" href="https://gist.githubusercontent.com/Developerayo/6988822e37603161e1de19218b8d97da/raw/93e65c5f581a98f63c4e0c39cbfec74203272ad3/style.css" />
 <p align="center">
 <a href="https://github.com/cloudinary"><img src="https://res.cloudinary.com/developerayo/image/upload/e_bgremoval,q_100/v1574038696/cloudinary-logo-developerayo.png" align="center" width="450"></a></p></br> 
 
