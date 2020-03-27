@@ -1,3 +1,4 @@
+<link href="https://res.cloudinary.com/developerayo/raw/upload/v1585272582/style.css" rel="stylesheet"></link>
 <p align="center">
 <a href="https://github.com/cloudinary"><img src="https://res.cloudinary.com/developerayo/image/upload/e_bgremoval,q_100/v1574038696/cloudinary-logo-developerayo.png" align="center" width="450"></a></p></br> 
 
