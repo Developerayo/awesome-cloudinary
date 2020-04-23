@@ -21,6 +21,7 @@
 ## Community
 * [GitHub](https://github.com/cloudinary)
 * [Twitter](https://twitter.com/cloudinary)
+* [Discord](https://discord.gg/mediadevs)
 * [YouTube](https://www.youtube.com/channel/UCyRx2h4HjOlcUTSilLqmN1w)
 * [StackOverflow](https://stackoverflow.com/questions/tagged/cloudinary)
 * [Cloudinary Blog](https://cloudinary.com/blog)
