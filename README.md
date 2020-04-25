@@ -1,10 +1,8 @@
 <p align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <a href="https://github.com/cloudinary"><img src="https://res.cloudinary.com/developerayo/image/upload/e_bgremoval,q_100/v1574038696/cloudinary-logo-developerayo.png" align="center" width="450"></a></p></br> 
 
-# Awesome Cloudinary [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/developerayo-approved-brightgreen.svg) ![](https://img.shields.io/badge/cloudinary-approved-orange.svg)
+# Awesome Cloudinary [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/developerayo-approved-brightgreen.svg) ![](https://img.shields.io/badge/cloudinary-approved-orange.svg) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 > A Curated list of awesome resources: articles, videos, books, demo's about using Cloudinary in production.
