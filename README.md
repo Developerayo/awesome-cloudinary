@@ -16,7 +16,9 @@
 - [Articles](#articles)
 - [Books](#books)
 - [Videos](#videos)
+- [Showcase](#showcase)
 - [Tools and Packages](#tools)
+- [Companies](#companies)
 
 
 ## Community
@@ -71,6 +73,9 @@
 * [Cloudinary - Image Manipulation Demo](https://www.youtube.com/watch?v=P4FhRuttCgY)
 * [Tutorial - Introduction to Video Uploads](https://www.youtube.com/watch?v=6WBrnrFAOzo)
 
+## Showcase
+
+"New Section"
 
 ## Tools
 > List of tools and libraries for Cloudinary
