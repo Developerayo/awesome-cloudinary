@@ -112,6 +112,7 @@
 * [Cloudinary JS Streaming](https://github.com/cloudinary/cloudinary-js-streaming)
 * [Mailinary](https://github.com/cloudinary/mailinary)
 * [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary)
+* [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary)
 
 
 ## Companies
