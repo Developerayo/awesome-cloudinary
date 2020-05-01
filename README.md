@@ -161,7 +161,7 @@
 Found an awesome article, tool, video, book etc.? Send in a pull request! Just follow the [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
-**Check out my [blog](https://shodipoayomide.com) or say *hi* on [Twitter](https://twitter.com/developerayo).**
+**Check out my [blog](https://shodipoayomide.com) or say *hi* on [Twitter](https://twitter.com/developerayo_).**
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
