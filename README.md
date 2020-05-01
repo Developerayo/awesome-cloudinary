@@ -1,7 +1,7 @@
 <p align="center">
 <a href="https://github.com/cloudinary"><img src="https://res.cloudinary.com/developerayo/image/upload/e_bgremoval,q_100/v1574038696/cloudinary-logo-developerayo.png" align="center" width="450"></a></p></br> 
 
-# Awesome Cloudinary [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/developerayo-approved-brightgreen.svg) ![](https://img.shields.io/badge/cloudinary-approved-orange.svg) [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+# Awesome Cloudinary [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/developerayo-approved-brightgreen.svg) ![](https://img.shields.io/badge/cloudinary-approved-orange.svg) [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
