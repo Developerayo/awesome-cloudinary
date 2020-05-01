@@ -177,6 +177,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://shodipoayomide.com"><img src="https://avatars2.githubusercontent.com/u/20538832?v=4" width="100px;" alt=""/><br /><sub><b>Shodipo Ayomide</b></sub></a><br /><a href="https://github.com/Developerayo/awesome-cloudinary/commits?author=Developerayo" title="Code">💻</a> <a href="https://github.com/Developerayo/awesome-cloudinary/commits?author=Developerayo" title="Documentation">📖</a> <a href="#tool-Developerayo" title="Tools">🔧</a> <a href="#tutorial-Developerayo" title="Tutorials">✅</a></td>
     <td align="center"><a href="http://joanleon.dev"><img src="https://avatars1.githubusercontent.com/u/1307927?v=4" width="100px;" alt=""/><br /><sub><b>Joan León</b></sub></a><br /><a href="https://github.com/Developerayo/awesome-cloudinary/commits?author=nucliweb" title="Code">💻</a> <a href="https://github.com/Developerayo/awesome-cloudinary/commits?author=nucliweb" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://gantlaborde.com/"><img src="https://avatars0.githubusercontent.com/u/997157?v=4" width="100px;" alt=""/><br /><sub><b>Gant Laborde</b></sub></a><br /><a href="https://github.com/Developerayo/awesome-cloudinary/commits?author=GantMan" title="Code">💻</a> <a href="https://github.com/Developerayo/awesome-cloudinary/commits?author=GantMan" title="Documentation">📖</a></td>
   </tr>
 </table>
 
