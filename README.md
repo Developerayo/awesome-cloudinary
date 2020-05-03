@@ -61,6 +61,7 @@
 * [How to upload a screenshot from Puppeteer to Cloudinary](https://bitsofco.de/how-to-upload-a-screenshot-from-puppeteer-to-cloudinary/)
 * [Responsive Images in WordPress with Cloudinary, Part 2](https://css-tricks.com/responsive-images-wordpress-cloudinary-part-2/)
 * [Using Cloudinary Without the Cloudinary Ruby Gem](https://www.msgtrail.com/articles/20190713-2025-using-cloudinary-without-the-cloudinary-ruby-gem/)
+* [Lazy loading images with Cloudinary](https://timbenniks.nl/writings/lazy-loading-images-with-cloudinary/)
 
 
 ## Books
