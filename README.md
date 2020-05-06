@@ -235,7 +235,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 | Martin Rojas             | Experience creator, UI Lead at Gozio Health                | [@martinrojas](https://twitter.com/martinrojas) |
 | Khalif Cooper            | Digital Analytics Developer Rent Path Network              | [@kcooperdev](https://twitter.com/kcooperdev) |
 | Jennifer Bland           | Founder of codeprep.io & in5days.tech                      | [@ratracegrad](https://twitter.com/ratracegrad) |
-| Alex Patterson           | Founder of AJonP                                           |  |
+| Alex Patterson           | Founder of AJonP                                           | [@CodingCatDev](https://twitter.com/CodingCatDev) |
 | Tim Benniks              | Dir. of Web Development, Valtech                           | [@timbenniks](https://twitter.com/timbenniks) |
 | Nick Babich              | Editor-in-Chief, UXPlanet.com                              | [@101babich](https://twitter.com/101babich) |
 | Ire Aderinokun           | Front-End Developer + Founder, BuyCoins                    | [@ireaderinokun](https://twitter.com/ireaderinokun) |
