@@ -214,40 +214,40 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 
 | Name                     | Work                                                       | Twitter          |
 | ------------------------ | ---------------------------------------------------------- | ---------------- |
-| Lauren Lee               | Developer Educator at Vonage                               | @LoLoCoding      |
-| Gant Laborde             | Owner of Infinite Red, mentor, adjunct professor           | @GantLaborde     |
-| Aspasia Karamalegos      | GDE, founder of Clio + Calliope, teacher & speaker         | @TheGreenGreek   |
-| Patricio Vargas          | GDE on Angular and Web Technologies & Auth0 ambassador.    | @devpato         |
-| Chris DeMars             | GDE, Accessibility Advocate, Host of Tales From The Script | @saltnburnem     |
-| Jayson Phillips          | Dir of Eng, Online Bootcamps at 2U Inc, Instructor         | @\_jjphillips    |
-| Bryan Robinson           | Blogger at bryanlrobinson.com, Live Coder                  | @brob            |
-| Henri Helvetica          | Development, Delivery, Design, Jamstack Toronto curator    | @HenriHelvetica  |
-| Baskar Rao               | .Net Developer, Auth0 Ambassador                           | @baskarmib       |
-| Zeeshan Chawdhary        | Hands on Full Stack Developer, Author                      | @imzeeshan       |
-| Shablé Harris            | Engineer, Creative, Advocate                               | @ShableHarris    |
-| Khriztian Moreno Zuluaga | Javascript Developer, Organizer of MedellinJS              | @khriztianmoreno |
-| Gift Egwuenu             | Frontend Developer / Evangelist at Datopian                | @lauragift\_     |
-| Max Koretskyi            | Founder of inDepth.dev                                     | @maxkoretskyi    |
-| Debbie O'Brien           | Head of Learning and Developer Advocate at Nuxt.js         | @debs_obrien     |
-| Shodipo Ayomide          | Senior Developer Advocate and Community Evangelist         | @developerayo    |
-| Eugene Musebe            | Technical lead at Saada                                    | @\_musebe        |
-| Joan León                | Frontend Developer at Adevinta Spain                       | @nucliweb        |
-| Martin Rojas             | Experience creator, UI Lead at Gozio Health                | @martinrojas     |
-| Khalif Cooper            | Digital Analytics Developer Rent Path Network              | @kcooperdev      |
-| Jennifer Bland           | Founder of codeprep.io & in5days.tech                      | @ratracegrad     |
-| Alex Patterson           | Founder of AJonP                                           | @ajonpcom        |
-| Tim Benniks              | Dir. of Web Development, Valtech                           | @timbenniks      |
-| Nick Babich              | Editor-in-Chief, UXPlanet.com                              | @101babich       |
-| Ire Aderinokun           | Front-End Developer + Founder, BuyCoins                    | @ireaderinokun   |
-| Chris Sevilleja          | Front-End Developer + Founder, Scotch.io                   | @chrisoncode     |
-| Mohammed Israil          | Web App Security Researcher                                | @mdisrail2468    |
-| Ekwuno Obinna            | Front-End Developer + Speake                               | @ObinnaSpeaks    |
-| Jennifer Aprahamian      | Sr. Technical Program Coord., Netflix                      | @jennifermarie   |
-| Dima Vishnevetsky        | Front-End Instructor + Co-Organizer, VueJS Israel          | @dimshik100      |
-| Neil Humphrey            | Founder, Omahacode.com                                     | @omahacode       |
-| LaQuita Gollman          | UI/UX Developer + Instructor, Egghead.io                   | @loudblkgirl     |
-| Harry Roberts            | Consultant Fron-End Architect                              | @csswizardry     |
-| Christian Nwamba         | Sr. Cloud Developer Advocate, Microsoft                    | @codebeast       |
+| Lauren Lee               | Developer Educator at Vonage                               | [@LoLoCoding](https://twitter.com/LoLoCoding) |
+| Gant Laborde             | Owner of Infinite Red, mentor, adjunct professor           | [@GantLaborde](https://twitter.com/GantLaborde) |
+| Aspasia Karamalegos      | GDE, founder of Clio + Calliope, teacher & speaker         | [@TheGreenGreek](https://twitter.com/TheGreenGreek) |
+| Patricio Vargas          | GDE on Angular and Web Technologies & Auth0 ambassador.    | [@devpato](https://twitter.com/devpato) |
+| Chris DeMars             | GDE, Accessibility Advocate, Host of Tales From The Script | [@saltnburnem](https://twitter.com/saltnburnem) |
+| Jayson Phillips          | Dir of Eng, Online Bootcamps at 2U Inc, Instructor         | [@_jjphillips](https://twitter.com/_jjphillips) |
+| Bryan Robinson           | Blogger at bryanlrobinson.com, Live Coder                  | [@brob](https://twitter.com/brob) |
+| Henri Helvetica          | Development, Delivery, Design, Jamstack Toronto curator    | [@HenriHelvetica](https://twitter.com/HenriHelvetica) |
+| Baskar Rao               | .Net Developer, Auth0 Ambassador                           | [@baskarmib](https://twitter.com/baskarmib) |
+| Zeeshan Chawdhary        | Hands on Full Stack Developer, Author                      | [@imzeeshan](https://twitter.com/imzeeshan) |
+| Shablé Harris            | Engineer, Creative, Advocate                               | [@ShableHarris](https://twitter.com/ShableHarris) |
+| Khriztian Moreno Zuluaga | Javascript Developer, Organizer of MedellinJS              | [@khriztianmoreno](https://twitter.com/khriztianmoreno) |
+| Gift Egwuenu             | Frontend Developer / Evangelist at Datopian                | [@lauragift_](https://twitter.com/lauragift_) |
+| Max Koretskyi            | Founder of inDepth.dev                                     | [@maxkoretskyi](https://twitter.com/maxkoretskyi) |
+| Debbie O'Brien           | Head of Learning and Developer Advocate at Nuxt.js         | [@debs_obrien](https://twitter.com/debs_obrien) |
+| Shodipo Ayomide          | Senior Developer Advocate and Community Evangelist         | [@developerayo](https://twitter.com/developerayo) |
+| Eugene Musebe            | Technical lead at Saada                                    | [@_musebe](https://twitter.com/_musebe) |
+| Joan León                | Frontend Developer at Adevinta Spain, GDE Web Technologies | [@nucliweb](https://twitter.com/nucliweb) |
+| Martin Rojas             | Experience creator, UI Lead at Gozio Health                | [@martinrojas](https://twitter.com/martinrojas) |
+| Khalif Cooper            | Digital Analytics Developer Rent Path Network              | [@kcooperdev](https://twitter.com/kcooperdev) |
+| Jennifer Bland           | Founder of codeprep.io & in5days.tech                      | [@ratracegrad](https://twitter.com/ratracegrad) |
+| Alex Patterson           | Founder of AJonP                                           |  |
+| Tim Benniks              | Dir. of Web Development, Valtech                           | [@timbenniks](https://twitter.com/timbenniks) |
+| Nick Babich              | Editor-in-Chief, UXPlanet.com                              | [@101babich](https://twitter.com/101babich) |
+| Ire Aderinokun           | Front-End Developer + Founder, BuyCoins                    | [@ireaderinokun](https://twitter.com/ireaderinokun) |
+| Chris Sevilleja          | Front-End Developer + Founder, Scotch.io                   | [@chrisoncode](https://twitter.com/chrisoncode) |
+| Mohammed Israil          | Web App Security Researcher                                | [@mdisrail2468](https://twitter.com/mdisrail2468) |
+| Ekwuno Obinna            | Front-End Developer + Speake                               | [@ObinnaSpeaks](https://twitter.com/ObinnaSpeaks) |
+| Jennifer Aprahamian      | Sr. Technical Program Coord., Netflix                      | [@jennifermarie](https://twitter.com/jennifermarie) |
+| Dima Vishnevetsky        | Front-End Instructor + Co-Organizer, VueJS Israel          | [@dimshik100](https://twitter.com/dimshik100) |
+| Neil Humphrey            | Founder, Omahacode.com                                     | [@omahacode](https://twitter.com/omahacode) |
+| LaQuita Gollman          | UI/UX Developer + Instructor, Egghead.io                   | [@loudblkgrl](https://twitter.com/loudblkgrl) |
+| Harry Roberts            | Consultant Fron-End Architect                              | [@csswizardry](https://twitter.com/csswizardry) |
+| Christian Nwamba         | Sr. Cloud Developer Advocate, Microsoft                    | [@codebeast](https://twitter.com/codebeast) |
 
 ## Contributing
 
