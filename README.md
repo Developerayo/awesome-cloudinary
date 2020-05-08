@@ -51,7 +51,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Build Your Own Giphy Clone with React and Cloudinary](https://scotch.io/tutorials/build-your-own-giphy-alternative-with-react) -
   Wouldn’t it be awesome if you could build your own Giphy Alternative in about the same amount of
   time it takes to eat your frosted flakes?
-- [Deliver the Perfect Image to Every User with Cloudinary](https://scotch.io/tutorials/deliver-the-perfect-image-to-every-user-with-cloudinary) -
+- [Deliver the Perfect Image to Every User with Cloudinary](https://scotch.io/tutorials/deliver-the-perfect-image-to-every-user-with-cloudinary) 
   We'll be taking a look at the new features Cloudinary has announced that make image manipulation
   and delivery so much simpler.
 - [Overlay Glasses/Masks on Avatars with Vue.js and Cloudinary](https://scotch.io/tutorials/overlay-glassesmasks-on-avatars-with-vuejs-and-cloudinary) -
@@ -142,7 +142,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Art Directing Images, the Picture Element, and Image CDNs | CSS-Tricks](https://css-tricks.com/video-screencasts/183-art-directing-images-the-picture-element-and-image-cdns/)
 - [Underlining a Report Column Across the Entire Row](http://forums.informationbuilders.com/eve/forums/a/tpc/f/7971057331/m/4217081396?r=7437091396)
 - [Interview with Director of Business Development, Cloudinary – Gary Ballabio](https://www.martechcube.com/interview-with-director-of-business-development-cloudinary-gary-ballabio/)
-- [](https://gatsby-transformer-cloudinary.netlify.app/gifs/)
+- [Gatsby Cloudinary Image Transformer](https://gatsby-transformer-cloudinary.netlify.app/gifs/)
 - [My New Website! Here are the deets](https://wesbos.com/new-wesbos-website)
 - [Cloudinary Launches Media Management Program for Nonprofits](https://www.businesswire.com/news/home/20200421005501/en/Cloudinary-Launches-Media-Management-Program-Nonprofits)
 - [Libpixel Blog | Customer story: Brideworthy](https://www.libpixel.com/blog/customer-story-brideworthy)
