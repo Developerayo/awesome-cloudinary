@@ -367,6 +367,14 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [React, Angular, Node In-Depth Guide: Beginner to Pro (2020)](https://www.udemy.com/course/react-angular-node-in-depth-guide-beginner-to-pro-2020/)
 - [Upload any media to cloudinary from app](https://www.youtube.com/watch?v=i8brO3UovSc)
 - [Get images from cloudinary](https://www.youtube.com/watch?v=Naf7yYyYGIU)
+- [From Zero to Hero with several years of Anguish - Bursting through barriers](https://www.youtube.com/watch?v=CEXoGajxY60)
+- [Guardando imágenes con Cloudinary](https://www.youtube.com/watch?v=H7NWGT1ZT-I)
+- [Como Criar um Aplicativo para Celular sem saber Programar](https://www.youtube.com/watch?v=N6rNyX4QqUA)
+- [Cara Mengedit Nama Frame di Dasboard Cloudinary](https://www.youtube.com/watch?v=23Wg_3JM0ZE)
+- [Фонарик на Javascript и день веб-мастера :)](https://www.youtube.com/watch?v=HPcgvQYDlzA)
+- [Upload Free Image and File at Cloudinary Storage using by Kodular](https://www.youtube.com/watch?v=20QsoJ5tpTY)
+- [Loader  - пивной бокал c загрузкой в процентах](https://www.youtube.com/watch?v=80OX5I0udek)
+- [Professional Dynamic Whatsapp Status Saver Appaia file Free Download 2020, First Online Creator.](https://www.youtube.com/watch?v=_DIH6oItqsk)
 
 ## Showcase
 
