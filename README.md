@@ -361,6 +361,12 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Colocando Categorias no Aplicativo Delivery - Kodular](https://www.youtube.com/watch?v=GMzspOO29NU)
 - [Community Calendar Labs23 Prisma Cloud + Apollo Heroku Setup 15APR20](https://www.youtube.com/watch?v=P-Gs0efamjo)
 - [egghead Talks: Full Stack Development in the Era of Serverless Computing](https://egghead.io/lessons/egghead-egghead-talks-full-stack-development-in-the-era-of-serverless-computing)
+- [4 . INSTALAR CLOUDINARY EN NUESTRO PROYECTO STRAPI  | FLUTTER](https://www.youtube.com/watch?v=dfQ480Qq97o)
+- [How to Test Your WordPress Website Page Load Speed - Speed Up WordPress](https://www.youtube.com/watch?v=I33bZ2_-WR0)
+- [egghead Talks: Full Stack Development in the Era of Serverless Computing](https://egghead.io/lessons/egghead-egghead-talks-full-stack-development-in-the-era-of-serverless-computing)
+- [React, Angular, Node In-Depth Guide: Beginner to Pro (2020)](https://www.udemy.com/course/react-angular-node-in-depth-guide-beginner-to-pro-2020/)
+- [Upload any media to cloudinary from app](https://www.youtube.com/watch?v=i8brO3UovSc)
+- [Get images from cloudinary](https://www.youtube.com/watch?v=Naf7yYyYGIU)
 
 ## Showcase
 
