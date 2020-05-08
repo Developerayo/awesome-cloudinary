@@ -163,6 +163,17 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Mailinary](https://github.com/cloudinary/mailinary)
 - [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary)
 - [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary)
+- [Простой подход к работе с отзывчивыми изображениями](https://habr.com/ru/company/ruvds/blog/500292/)
+- [Dealing with dynamic images in Gatsby](https://fmontes.com/blog/dynamic-gatsby-images-an-anternative/)
+- [Build Telegram Bot without code and get notifications](https://dev.to/mddanishyusuf/build-telegram-bot-without-code-and-get-notifications-27aj)
+- [I have a new website and it's super fancy!](https://timbenniks.nl/writings/a-new-website/)
+- [Using Netlify Redirects to Proxy Images Hosted on a Third Party Image Provider or a Headless CMS](https://markus.oberlehner.net/blog/using-netlify-redirects-to-proxy-images-hosted-on-a-third-party-image-provider-or-a-headless-cms/)
+- [Improve Personalized Connections With Video](https://www.cmswire.com/digital-marketing/improve-personalized-connections-with-video/)
+- [How to get to the sub-second page load times in the real world with Sitecore JSS](https://uniform.dev/sugcon2020)
+- [How To Set up Webpack for Web Development | Hacker Noon](https://hackernoon.com/how-to-set-up-webpack-for-web-development-u53u3yi2)
+- [Redesigning iMessage for better user experience — a UX case study](https://uxdesign.cc/redesigning-imessage-for-better-user-experience-a-ux-case-study-e542c77fc77)
+- [פנאי - מ-Drivenets ועד למשחקי מובייל של MoonActive](https://www.calcalist.co.il/internet/articles/0,7340,L-3811470,00.html)
+- [Top Israeli Startups 2020: Most Promising Entertainment and Media Companies](https://www.calcalistech.com/ctech/articles/0,7340,L-3812290,00.html)
 
 ## Companies
 
