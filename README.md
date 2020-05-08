@@ -219,6 +219,11 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [React Native’de WebSocket kullanılarak bir chat uygulaması nasıl yapılır?](https://medium.com/@ZaferAyan/react-nativede-websocket-kullan%C4%B1larak-bir-chat-uygulamas%C4%B1-nas%C4%B1l-yap%C4%B1l%C4%B1r-c2597fa5cd8e)
 - [Better Assets with Cloudinary & GraphQL (with Domitrius Clark)](https://learnwithjason.dev/better-assets-with-cloudinary-graphql)
 - [Cloudinary Integrates Shutterstock to Accelerate Creative Workflow | Best.Photography](https://best.photography/tips_and_tricks/443183/cloudinary-integrates-shutterstock-to-accelerate-creative-workflow/)
+- [Survey Shows Multi-Media Pros Agree Streamlining Access Radically Reduces Version Management Headaches](http://www.shapinginfluence.com/news/2020/04/09/9129741.htm)
+- [Survey Shows Multi-Media Pros Agree Streamlining Access Radically Reduces Version Management Headaches - Santa Cruz Tech Beat](https://www.santacruztechbeat.com/2020/04/09/survey-shows-multi-media-pros-agree-streamlining-access-radically-reduces-version-management-headaches/)
+- [Cómo montar un blog con tecnología de vanguardia sin tener ni idea](https://www.guillermogascon.com/primer-dia-de-clase/)
+- [GraphQL patterns — File uploads and downloads](https://medium.com/@bostjan_cigan/graphql-patterns-file-upload-and-download-b391b860ced1)
+- [PlaceIQ, a Location Intelligence Company Acquires Freckle IoT](https://www.martechadvisor.com/news/proximity-marketing/placeiq-a-location-intelligence-company-acquires-freckle-iot/)
 
 ## Companies
 
