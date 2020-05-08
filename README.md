@@ -42,15 +42,15 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
   Image manipulation is hard. Handling images in the long term is even harder but not with
   Cloudinary.
 - [Interactive Product Page with React and Cloudinary](https://scotch.io/tutorials/interactive-product-page-with-react-and-cloudinary) -
-  Consumers today expect to have the ability to customize products they purchase online.
+  Consumers today expect to have the ability to customize the products they purchase online.
 - [How to upload multiple images with Cloudinary and Node JS](https://scotch.io/@codebyomar/how-to-upload-multiple-images-with-cloudinary-and-node-js) -
-  In this post we are going to create a backend Node JS server that uses the cloudinary library to
+  In this post, we are going to create a backend Node JS server that uses the cloudinary library to
   upload multiple images at once.
 - [Leveraging React for Easy Image Management with Cloudinary](https://scotch.io/tutorials/leveraging-react-for-easy-image-management-with-cloudinary) -
   React is a good tool when it comes to building flexible and reusable UI components.
 - [Build Your Own Giphy Clone with React and Cloudinary](https://scotch.io/tutorials/build-your-own-giphy-alternative-with-react) -
   Wouldn’t it be awesome if you could build your own Giphy Alternative in about the same amount of
-  time it takes to eat your frosted flakes?
+  the time it takes to eat your frosted flakes?
 - [Deliver the Perfect Image to Every User with Cloudinary](https://scotch.io/tutorials/deliver-the-perfect-image-to-every-user-with-cloudinary) 
   We'll be taking a look at the new features Cloudinary has announced that make image manipulation
   and delivery so much simpler.
@@ -62,20 +62,17 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Create Scotch-Like Image Cards in Angular 2+ with Cloudinary](https://scotch.io/tutorials/create-scotch-like-image-cards-in-angular-2-with-cloudinary) -
   Creating Scotch-Like Image Cards in Angular 2+ with Cloudinary.
 - [Implement Smooth Video Buffering for Better Viewing Experience with Cloudinary](https://scotch.io/tutorials/implement-smooth-video-buffering-for-better-viewing-experience-with-cloudinary) -
-  Today, though, users’ patience has run out. They are no longer willing to wait because they know
-  we – the engineers – can afford to give them a better experience.
-- [Build the Back-End For Your Own Instagram-style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary) -
-  Managing media files (processing, storage and manipulation) is one of the biggest challenges we
+  Today, though, users’ patience has run out. They are no longer willing to wait because they know we – the engineers – can afford to give them a better experience.
+- [Build the Back-End For Your Instagram-style App with Cloudinary](https://scotch.io/bar-talk/build-the-back-end-for-your-own-instagram-style-app-with-cloudinary) -
+  Managing media files (processing, storage, and manipulation) is one of the biggest challenges we
   encounter as practical developers.
 - [Use Cloudinary to optimize images](https://web.dev/codelab-cloudinary/) - Learn to use
   Cloudinary's fetch URL API to optimize images and serve them in next-gen formats.
 - [Lazy loading images with Cloudinary](https://timbenniks.nl/writings/lazy-loading-images-with-cloudinary/) -
   Lazy loading images is awesome. Doing it with cloudinary is awesome.
 - [How I successfully uploaded images to Cloudinary from my Sails App ⛵️](https://codeburst.io/how-i-successfully-uploaded-images-to-cloudinary-from-my-sails-app-%EF%B8%8F-66f5bc643645) -
-  This article is centered on documenting how I set up image uploads to Cloudinary from my Sails web
-  service. Hope it could help you if you are into such things 😉
-- [Responsive images with Cloudinary](https://harrycresswell.com/articles/cloudinary/) - Responsive
-  images are crucial part of improving website performance. But that doesn’t just mean globally
+  This article is centered on documenting how I set up image uploads to Cloudinary from my Sails web service. Hope it could help you if you are into such things 😉
+- [Responsive images with Cloudinary](https://harrycresswell.com/articles/cloudinary/) - Responsive images are a crucial part of improving website performance. But that doesn’t just mean globally
   setting images to 100% width, height ‘auto’, then calling it a day.
 - [Optimize & Serve Next-Gen Images Just by Changing the Image's URL with Cloudinary's URL API](https://scotch.io/tutorials/optimize-serve-next-gen-images-just-by-changing-the-images-url-with-cloudinarys-url-api) -
   Learn to use Cloudinary's fetch URL API to optimize images and serve them in next-gen formats.
@@ -400,15 +397,15 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Criar Conta no Kodular para Criar Aplicativos](https://www.youtube.com/watch?v=FT0dMNQfKws)
 - [React-IL Meetup | 11.3.20 | Cloudinary](https://www.youtube.com/watch?v=JKcJJNgKuaI)
 - [Good News Good News Friends, First Online Creator YouTube Channel, Subscriber Free App Create.......](https://www.youtube.com/watch?v=F439hdIAo9M)
-- [Tik tok Earning app with Koduler|| Full Prosess create,Free aia file| First Online Creator....](https://www.youtube.com/watch?v=zhrsyl9TqEk)
+- [Tik Tok Earning app with Koduler|| Full Process create, Free aia file| First Online Creator....](https://www.youtube.com/watch?v=zhrsyl9TqEk)
 - [Tutorial - How to Use Cloudinary’s Adobe Creative Cloud Connector](https://www.youtube.com/watch?v=MFvmQ54cDSs)
 - [Login com Google kodular App inventor Thunkable](https://www.youtube.com/watch?v=CQnCMxJTKis)
 - [New Dynamic Quiz App With Firebase 2020| Free Aia | Timer System Quiz|| First Online Creator..](https://www.youtube.com/watch?v=GlwuVX2DNbY)
 - [CARA MEMBUAT FRAMING MASSAL HANYA DENGAN EDIT LINK GAMBAR](https://www.youtube.com/watch?v=AaSzzvxHhqU)
-- [15 upload file or image in react native to cloudinary | react native image uploading tutorial](https://www.youtube.com/watch?v=1SIYtfwAVTo)
+- [15 upload file or image in react-native to cloudinary | react native image uploading tutorial](https://www.youtube.com/watch?v=1SIYtfwAVTo)
 - [How to create Firebase Account || Full Process step by step, 2020 new update .| First Online Creator](https://www.youtube.com/watch?v=IIXWeypVTUI)
 - [Automation Lazada - Setting Akun Cludinary](https://www.youtube.com/watch?v=ZwDjOT7w-gY)
-- [How Generat Privacy Policy | Privacy Policy For Android App | How make Privacy Policy For Kodular](https://www.youtube.com/watch?v=UYX3aC-LhXU)
+- [How to Generate Privacy Policy | Privacy Policy For Android App | How to make Privacy Policy For Kodular](https://www.youtube.com/watch?v=UYX3aC-LhXU)
 - [Glide Tutorial: Image Overlays w/ Cloudinary](https://www.youtube.com/watch?v=pF8ywM0c2TY)
 - [Glide Tutorial: Fetch and Filter ANY Image using Cloudinary](https://www.youtube.com/watch?v=XScJD7IRlc8)
 - [Glide Tutorial: Image Filters and Overlays w/ Cloudinary](https://www.youtube.com/watch?v=cGCVJrczIHc)
@@ -493,7 +490,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [el3zahaby/cloudder](https://github.com/el3zahaby/cloudder)
 - [Contests for Facebook | Subprocessors](https://contest-app.co/policies/subprocessors/)
 - [Seeking expert cloudinary platform](https://www.twago.com/project/seeking-expert-cloudinary-platform/157933/)
-- [Cloudimage, deliver lightning fast images to your users | WPCent.com](https://wpcent.com/cloudimage/)
+- [Cloudimage, deliver lightning-fast images to your users | WPCent.com](https://wpcent.com/cloudimage/)
 - [Enquetes para Facebook | Subprocessors](https://enquete-app.com/policies/subprocessors/)
 - [uniformdev/sugcon-jss](https://github.com/uniformdev/sugcon-jss)
 - [fauna-brecht/fwitter](https://github.com/fauna-brecht/fwitter)
@@ -631,7 +628,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 
 ## Contributing
 
-Found an awesome article, tool, video, book etc.? Send in a pull request! Just follow the
+Found an awesome article, tool, video, book, etc.? Send in a pull request! Just follow the
 [guidelines](/CONTRIBUTING.md). Thank you!
 
 ---
