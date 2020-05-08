@@ -375,6 +375,15 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Upload Free Image and File at Cloudinary Storage using by Kodular](https://www.youtube.com/watch?v=20QsoJ5tpTY)
 - [Loader  - пивной бокал c загрузкой в процентах](https://www.youtube.com/watch?v=80OX5I0udek)
 - [Professional Dynamic Whatsapp Status Saver Appaia file Free Download 2020, First Online Creator.](https://www.youtube.com/watch?v=_DIH6oItqsk)
+- [Lập trình ứng dụng SnapChat - Istagram  cho iOS Android trong 30 phút không cần code với Thunkable](https://www.youtube.com/watch?v=_kDL22gjbNU)
+- [Scratch and Win App With Daily Scratch Limit .Free Aia In Kodular. First Online Creator..](https://www.youtube.com/watch?v=B_5C64XfVPM)
+- [Utility First CSS with TailwindCSS (English) - Roman Sandler | React-IL Meetup](https://www.youtube.com/watch?v=1W79y6Q3_nM)
+- [Introduction to React's Concurrent Mode -Sveta Slepner | React-IL Meetup | 11.3.20](https://www.youtube.com/watch?v=TNZ7DK_Af2o)
+- [Tiktok Gibi Uygulama Yapımı **Hiçbir şey bilmeden**](https://www.youtube.com/watch?v=lkeQNZHy74M)
+- [Building Trust with Remote Working Teams - with Scott Schnaars of Cloudinary](https://www.youtube.com/watch?v=uARJ9ptKy7U)
+- [Implementing Cloudinary images for responsive images in 11ty](https://www.youtube.com/watch?v=htHTc9iyx58)
+- [Аналоговые механические часы на CSS и Javascript](https://www.youtube.com/watch?v=a4IpKlo6igk)
+- [Using Cloudinary as a write-through cache for a Netlify Function that generates images](https://egghead.io/lessons/javascript-using-cloudinary-as-a-write-through-cache-for-a-netlify-function-that-generates-images)
 
 ## Showcase
 
