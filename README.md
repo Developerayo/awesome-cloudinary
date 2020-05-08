@@ -228,6 +228,10 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [#180: Tinkering with Video on Mobile | CSS-Tricks](https://css-tricks.com/video-screencasts/180-tinkering-with-video-on-mobile/)
 - [Khoros Expands Its Khoros Care Solution, Launches Modern Chat](https://www.martechadvisor.com/news/customer-experience-2/khoros-expands-its-khoros-care-solution-launches-modern-chat/)
 - [Acquia Expands Its Leadership with New Hires](https://www.martechadvisor.com/news/customer-experience-2/acquia-expands-its-leadership-with-new-hires/)
+- [Video Voice “Unders”](https://dougsillars.com/2020/04/08/video-voice-unders/)
+- [New 3U CompactPCI Rugged Single Board Computer Provides Extended Availability](https://www.aithority.com/machine-learning/memory-based-learning/new-3u-compactpci-rugged-single-board-computer-provides-extended-availability-for-long-term-programs/)
+- [EnterpriseDB Extends Support Services to Amazon RDS for PostgreSQL](https://www.aithority.com/ait-featured-posts/enterprisedb-extends-support-services-to-amazon-rds-for-postgresql-and-microsoft-azure-database-for-postgresql/)
+- [Cloudinary WordPress Plugin Review](https://thedevcouple.com/cloudinary-wordpress-review/)
 
 ## Companies
 
