@@ -224,6 +224,10 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Cómo montar un blog con tecnología de vanguardia sin tener ni idea](https://www.guillermogascon.com/primer-dia-de-clase/)
 - [GraphQL patterns — File uploads and downloads](https://medium.com/@bostjan_cigan/graphql-patterns-file-upload-and-download-b391b860ced1)
 - [PlaceIQ, a Location Intelligence Company Acquires Freckle IoT](https://www.martechadvisor.com/news/proximity-marketing/placeiq-a-location-intelligence-company-acquires-freckle-iot/)
+- [Deploying a Django Application to Heroku](https://medium.com/python-in-plain-english/deploying-a-django-application-to-heroku-be8309da479d)
+- [#180: Tinkering with Video on Mobile | CSS-Tricks](https://css-tricks.com/video-screencasts/180-tinkering-with-video-on-mobile/)
+- [Khoros Expands Its Khoros Care Solution, Launches Modern Chat](https://www.martechadvisor.com/news/customer-experience-2/khoros-expands-its-khoros-care-solution-launches-modern-chat/)
+- [Acquia Expands Its Leadership with New Hires](https://www.martechadvisor.com/news/customer-experience-2/acquia-expands-its-leadership-with-new-hires/)
 
 ## Companies
 
