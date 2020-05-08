@@ -334,6 +334,9 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 ## Books
 
 - [Resizing images and transformations with Cloudinary](https://www.oreilly.com/library/view/mean-cookbook/9781787286573/55c18af7-f0b5-47f1-a78e-06a9e11bc687.xhtml)
+- [Choosing the Right Voice AI Platform](http://www.econtentmag.com/WhitePapers/Choosing-the-Right-Voice-AI-Platform_9834.htm)
+- [Kop Kopmeyer 1000 Success Principles Cloudinary](http://tvonenews.com.cy/Kop_Kopmeyer_1000_Success_Principles_Cloudinary.pdf)
+- [Build a Gatsby Photo Gallery with Strapi and Cloudinary](https://www.sitepoint.com/premium/books/build-a-gatsby-photo-gallery-with-strapi-and-cloudinary)
 
 ## Videos
 
@@ -429,6 +432,8 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 ## Showcase
 > Showcase anything you have built in this section by opening up a PR
 
+- [Mocktail](https://jordanmerrick.com/shortcuts/mocktail/)
+- [Gutenberging](http://damianfallon.blogspot.com/2020/02/gutenberging.html)
 
 ## Tools
 > List of tools and libraries for Cloudinary
