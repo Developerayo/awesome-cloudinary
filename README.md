@@ -230,7 +230,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [ImageEngine vs Cloudinary — What’s the difference? - imageengine](https://medium.com/imageengine/imageengine-vs-cloudinary-whats-the-difference-fd73283b7cfa)
 - [ImageEngine vs Cloudinary](https://medium.com/imageengine/imageengine-vs-cloudinary-who-is-the-fastest-gun-cdn-alive-1dde236aef5e)
 - [A Socially Distanced Mother’s Day Gift with WhatsApp and Cloudinary](https://www.twilio.com/blog/socially-distanced-mothers-day-gift)
-- [「FRACTA」という社名の由来〜個の力を集結させたチームへ〜｜FRACTA ｜ デジタルネイティブ ブランディングエージェンシー](https://note.fracta.co.jp/n/n1d0613b9fa29)
+- [FRACTA」という社名の由来〜個の力を集結させたチームへ〜｜FRACTA ｜ デジタルネイティブ ブランディングエージェンシー](https://note.fracta.co.jp/n/n1d0613b9fa29)
 - [Redesign March 2020](https://blog.ypertex.com/articles/redesign-march-2020/)
 - [B2B E-Commerce Solutions and Services - Intershop Communications AG](https://synaptic.intershop.com/de/Synaptic_Commerce_Partners/Cloudinary-Ltd-zid110823178)
 - [Workshop praktickej bezpečnosti na internete](https://www.ajtyvit.sk/podujatia/workshop-praktickej-bezpecnosti-na-internete-online)
