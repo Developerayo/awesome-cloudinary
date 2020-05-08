@@ -435,7 +435,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Mocktail](https://jordanmerrick.com/shortcuts/mocktail/)
 - [Gutenberging](http://damianfallon.blogspot.com/2020/02/gutenberging.html)
 
-# Events
+## Events
 - [unStack Workshop on React.js to Kick Off Soon in Lagos](https://dev.to/developerayo/unstack-workshop-on-react-js-to-kick-off-soon-in-lagos-2ido)
 - [Vue Community Virtual event - 2 great sessions about JAMstack and Performance](https://www.meetup.com/en-AU/VueJS-Oslo/events/270218508/)
 - [SeattleVueJS - April Meetup on ZOOM!](https://www.meetup.com/en-AU/SeattleVueJS/events/269534399/)
@@ -445,7 +445,15 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [【5/1（金）ウェビナー】「今知っておきたいSaaSのAtoZ」を開催します ｜ Developers.IO](https://dev.classmethod.jp/news/200511-saas-webinar/)
 - [Program - Vue.js Conference - Amsterdam](https://vuejs.amsterdam/program)
 
-
+## Slides
+- [Breaking down Responsive design in Cloudinary](https://speakerdeck.com/developerayo/breaking-down-responsive-design-in-cloudinary)
+- [Demystifying SEO - A beginner's guide](https://www.slideshare.net/OluwagbamilaAremu/demystifying-search-engine-optimizationseo-a-beginners-guide)
+- [Cloud to Edge](https://www.slideshare.net/WesleyReisz/cloud-to-edge)
+- [Currículo](https://www.slideshare.net/PabloCruz139/currculo-230290202)
+- [Going Strategic: DAM for a New Decade](https://www.slideshare.net/RebekahRodriguez8/going-strategic-dam-for-a-new-decade)
+- [Currículo Pablo Vinicius](https://www.slideshare.net/PabloCruz139/currculo-pablo-vinicius)
+- [Joining a developer experts program to leverage your career](https://www.slideshare.net/Tessa99/joining-a-developer-experts-program-to-leverage-your-career)
+- [O que é preciso para ser um desenvolvedor Android](https://www.slideshare.net/nglauber/o-que-preciso-para-ser-um-desenvolvedor-android)
 
 ## Tools
 > List of tools and libraries for Cloudinary
