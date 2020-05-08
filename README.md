@@ -250,6 +250,13 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Simple Ways to Improve Video ROI](https://www.cmswire.com/digital-marketing/simple-ways-to-improve-video-roi/)
 - [Чёткость до последнего байта: как делать веб-графику хорошо, часть вторая — Дизайн на vc.ru](https://vc.ru/design/117357-chetkost-do-poslednego-bayta-kak-delat-veb-grafiku-horosho-chast-vtoraya)
 
+- [Do This Not That: Switching Marketing Tactics During the Coronavirus](https://blog.kiwicreative.net/switch-marketing-tactics)
+- [Responsive Images the Simple Way](https://cloudfour.com/thinks/responsive-images-the-simple-way/)
+- [Tools to manage your workforce remotely](https://medium.com/codeln/tools-to-manage-your-workforce-remotely-ab7ca2b10c62)
+- [Cloudinary Studio](https://www.front-end.news/articles/13093)
+- [Cloudinary Studio | CSS-Tricks](https://css-tricks.com/cloudinary-studio/)
+- [Santa Cruz Software Announces AEM Support for Two New Products at Adobe Summit 2020](http://tradeshownews.vporoom.com/2020-03-31-Santa-Cruz-Software-Announces-AEM-Support-for-Two-New-Products-at-Adobe-Summit-2020)
+
 ## Companies
 
 > List of a few companies using Cloudinary
