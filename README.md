@@ -147,7 +147,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Cloudinary Launches Media Management Program for Nonprofits](https://www.businesswire.com/news/home/20200421005501/en/Cloudinary-Launches-Media-Management-Program-Nonprofits)
 - [Libpixel Blog | Customer story: Brideworthy](https://www.libpixel.com/blog/customer-story-brideworthy)
 - [Writing a technical blog 101](https://dev.to/arkodyutisaha/writing-a-technical-blog-101-13pa)
-- [【2020.1〜4月】 FRACTA noteまとめ｜FRACTA ｜ デジタルネイティブ ブランディングエージェンシー](https://note.fracta.co.jp/n/n5afec1b7db71)
+- [FRACTA noteまとめ｜FRACTA ｜ デジタルネイティブ ブランディングエージェンシー](https://note.fracta.co.jp/n/n5afec1b7db71)
 - [Full-stack Developer to exciting startup!](https://webbjobb.io/jobb/137845/full-stack-developer-to-exciting-startup)
 - [Suitsupply](http://stackoverflow.com/jobs/companies/suitsupply)
 - [Build a Realtime App with React Hooks and GraphQL - Reviews & Coupon - Java Code Geeks](https://courses.javacodegeeks.com/build-a-realtime-app-with-react-hooks-and-graphql/)
