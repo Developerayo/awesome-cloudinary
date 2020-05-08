@@ -213,6 +213,12 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Social Media Social Distancing](https://dougsillars.com/2020/04/14/social-media-social-distancing/)
 - [JSFeeds: egghead.io - egghead: Nader Dabit - Full Stack Development in the Era of Serverless Computing](https://jsfeeds.com/details/egghead-nader-dabit-full-stack-development-in-the-era-of-serverless-computing-5e94bc563bb245761eb63b3a?s=rss)
 - [Cloudinary Launches Enhanced WordPress Plugin, Named a WordPress VIP Technology Partner](https://www.tmcnet.com/usubmit/2020/04/07/9127840.htm)
+- [Glassbox Raises $40M, Funding to Strengthen Its Analytics Platform](https://www.martechadvisor.com/news/marketing-analytics/glassbox-raises-40m-funding-to-strengthen-its-analytics-platform/)
+- [Useful Hugo Templating](https://blog.ypertex.com/articles/useful-hugo-templating/)
+- [Eating my Own Agile/DevOps Dog Food — S1E1](https://medium.com/@VivekGanesan/eating-my-own-agile-devops-dog-food-s1e1-b1b307b936ce)
+- [React Native’de WebSocket kullanılarak bir chat uygulaması nasıl yapılır?](https://medium.com/@ZaferAyan/react-nativede-websocket-kullan%C4%B1larak-bir-chat-uygulamas%C4%B1-nas%C4%B1l-yap%C4%B1l%C4%B1r-c2597fa5cd8e)
+- [Better Assets with Cloudinary & GraphQL (with Domitrius Clark)](https://learnwithjason.dev/better-assets-with-cloudinary-graphql)
+- [Cloudinary Integrates Shutterstock to Accelerate Creative Workflow | Best.Photography](https://best.photography/tips_and_tricks/443183/cloudinary-integrates-shutterstock-to-accelerate-creative-workflow/)
 
 ## Companies
 
