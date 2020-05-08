@@ -180,6 +180,12 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Rethinking Twitter as a Serverless App | Devs' Hive](https://devshive.tech/link/byiwjhbti/rethinking-twitter-as-a-serverless-app)
 - [50 Most Promising Israeli Startups 2020 - Covid-19 Edition](https://www.calcalistech.com/ctech/articles/0,7340,L-3812230,00.html)
 - [Development of static sites with JAM Stack and dynamic content](https://divante.com/blog/development-of-static-sites-with-jam-stack-and-dynamic-content/)
+- [Cloudinary vs imgix vs ImageKit vs Optimole: Which Is Best in 2020?](https://themeisle.com/blog/cloudinary-vs-imgix-vs-imagekit-vs-optimole/)
+- [](https://thenewstack.io/why-your-next-database-will-be-a-serverless-api/)
+- [About this website](https://nicolas-hoizey.com/about/the-website.html)
+- [NoCodeAPI - Quick and Easy API Gateway - No Code Info](https://nocodeinfo.com/nocodeapi-quick-and-easy-api-gateway/)
+- [50 Things I have learnt from StartNG](https://medium.com/@icekidz1997/50-things-i-have-learnt-from-startng-4acf9063b732)
+- [React Native: How to upload an image to Cloudinary.](https://medium.com/react-native-nigeria/react-native-how-to-upload-an-image-to-cloudinary-da3693f0ae61)
 
 ## Companies
 
