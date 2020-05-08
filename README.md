@@ -186,6 +186,12 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [NoCodeAPI - Quick and Easy API Gateway - No Code Info](https://nocodeinfo.com/nocodeapi-quick-and-easy-api-gateway/)
 - [50 Things I have learnt from StartNG](https://medium.com/@icekidz1997/50-things-i-have-learnt-from-startng-4acf9063b732)
 - [React Native: How to upload an image to Cloudinary.](https://medium.com/react-native-nigeria/react-native-how-to-upload-an-image-to-cloudinary-da3693f0ae61)
+- [Strapi Documentation](https://strapi.io/documentation/3.0.0-beta.x/getting-started/troubleshooting.html)
+- [Phil Hawksworth on "static first," the future of the JAMstack and much more - That's My JAM...stack](https://thatsmyjamstack.com/posts/phil-hawksworth/)
+- [Rethinking Twitter as a Serverless App | CSS-Tricks](https://css-tricks.com/rethinking-twitter-as-a-serverless-app/)
+- [Digital Asset Management platforms](https://downloads.digitalmarketingdepot.com/MIR_1910_DAMgmtGuid_landingpage_amplify.html)
+- [Cloudinary Launches Media Management Program for Nonprofits](https://martechseries.com/content/digi-asset-mgmt/cloudinary-launches-media-management-program-nonprofits/)
+- [Moving to 11ty](https://smcllw.me/posts/11ty/)
 
 ## Companies
 
