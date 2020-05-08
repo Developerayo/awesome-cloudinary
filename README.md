@@ -263,6 +263,10 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [2020年3月の振り返りと4月の目標 - フロントエンドの地獄](https://blog.nabettu.com/entry/monthly_report202003)
 - [How to Improve Page Speed from Start to Finish (Advanced Guide)](https://ahrefs.com/blog/advanced-pagespeed-guide/)
 - [Santa Cruz Software Announces AEM Support for Two New Products at Adobe Summit 2020](https://www.prnewswire.com/news-releases/santa-cruz-software-announces-aem-support-for-two-new-products-at-adobe-summit-2020-301032415.html)
+- [React, Angular, Node In-Depth Guide: Beginner to Pro (2020)](https://coupononlinecourses.blogspot.com/2020/03/react-angular-node-in-depth-guide.html)
+- [Traveling the World Virtually](https://dougsillars.com/2020/03/31/traveling-the-world-virtually/)
+- [Rails: Coding a Photo Gallery App](https://medium.com/@haseebchaudhary_98209/rails-building-a-photo-gallery-app-cac385c75cdc)
+- [Build a Realtime App with React Hooks and GraphQL](http://www.freecoursesitenet.com/2019/08/build-a-realtime-app-with-react-hooks-and-graphql.html)
 
 ## Companies
 
