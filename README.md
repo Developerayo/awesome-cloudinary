@@ -237,7 +237,14 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Deploying a Django Application to Heroku](https://medium.com/python-in-plain-english/deploying-a-django-application-to-heroku-be8309da479d)
 - [Santa Cruz Software Introduces LinkrUI, Gamechanger For Design World](http://www.shapinginfluence.com/news/2020/04/07/9128054.htm)
 - Cloudinary Launches Enhanced WordPress Plugin[](https://www.aithority.com/technology/cloudinary-launches-enhanced-wordpress-plugin-named-a-wordpress-vip-technology-partner/)
-
+- [Cloudinary Enhances its WordPress Plugin, Simplifies Content Publishing for Marketers](https://www.martechadvisor.com/news/content-marketing/cloudinary-enhances-its-wordpress-plugin-simplifies-content-publishing-for-marketers/)
+- [Cloudinary Launches Enhanced WordPress Plugin, Named a WordPress VIP Technology Partner](https://www.businesswire.com/news/home/20200407005190/en/Cloudinary-Launches-Enhanced-WordPress-Plugin-Named-WordPress)
+- [Customer Success Enablement Manager | Cloudinary | 29716](https://www.gainsight.com/job/customer-success-enablement-manager-3/)
+- [Technical Customer Success Manager | Cloudinary | 29717](https://www.gainsight.com/job/technical-customer-success-manager-24/)
+- [How to Upload Files in a React and Rails App](https://medium.com/better-programming/how-to-upload-files-in-a-react-and-rails-app-69c31a9cf9b7)
+- [14 Best Node JS Frameworks 2020 for Website Appearance on Top](https://www.credencys.com/blog/best-node-js-frameworks/)
+- [Netlify CMSを用いてBlog記事を投稿する - iKenichi Blog](https://www.ishikawa-ke.com/posts/netlify-cms%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6blog%E8%A8%98%E4%BA%8B%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B/)
+- [Joining the fight against Covid-19 with technology](https://medium.com/@akitikkx/joining-the-fight-against-covid-19-with-technology-covid-19-global-hackathon-933d0dcc2609)
 
 ## Companies
 
