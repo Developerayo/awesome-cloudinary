@@ -391,14 +391,48 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [3D-книга Гарри Поттера на чистом CSS](https://www.youtube.com/watch?v=dUEOwnqb8qs)
 - [Paano Gamiting ang Cloudinary as Image Source in Mass or Bulk Listing sa Shopee or Lazada](https://www.youtube.com/watch?v=p1to1D1OSGU)
 - [Building an OpenGraph image generation API with Cloudinary, Netlify Functions, and React](https://egghead.io/playlists/building-an-opengraph-image-generation-api-with-cloudinary-netlify-functions-and-react-914e)
+- [Aplicativo Agenda Barbearia Salão de Beleza   Bônus](https://www.youtube.com/watch?v=PUR2d06Bcgw)
+- [Aplicativo Delivery - Atualizações do Curso](https://www.youtube.com/watch?v=TEZjqEKq27s)
+- [Welcome to Cloudinary!](https://www.youtube.com/watch?v=4yBmX3yqOEw)
+- [Пианино на Javascript с вопроизведением звука](https://www.youtube.com/watch?v=vyDgdnL3PVI)
+- [IMAGE APP || UPLOADING IMAGE TO CLOUDINARY USING NODEJS  & EXPRESS & MULTER](https://www.youtube.com/watch?v=9dMyu1Bz5PA)
+- [Criar Conta no Kodular para Criar Aplicativos](https://www.youtube.com/watch?v=FT0dMNQfKws)
+- [React-IL Meetup | 11.3.20 | Cloudinary](https://www.youtube.com/watch?v=JKcJJNgKuaI)
+- [Good News Good News Friends, First Online Creator YouTube Channel, Subscriber Free App Create.......](https://www.youtube.com/watch?v=F439hdIAo9M)
+- [Tik tok Earning app with Koduler|| Full Prosess create,Free aia file| First Online Creator....](https://www.youtube.com/watch?v=zhrsyl9TqEk)
+- [Tutorial - How to Use Cloudinary’s Adobe Creative Cloud Connector](https://www.youtube.com/watch?v=MFvmQ54cDSs)
+- [Login com Google kodular App inventor Thunkable](https://www.youtube.com/watch?v=CQnCMxJTKis)
+- [New Dynamic Quiz App With Firebase 2020| Free Aia | Timer System Quiz|| First Online Creator..](https://www.youtube.com/watch?v=GlwuVX2DNbY)
+- [CARA MEMBUAT FRAMING MASSAL HANYA DENGAN EDIT LINK GAMBAR](https://www.youtube.com/watch?v=AaSzzvxHhqU)
+- [15 upload file or image in react native to cloudinary | react native image uploading tutorial](https://www.youtube.com/watch?v=1SIYtfwAVTo)
+- [How to create Firebase Account || Full Process step by step, 2020 new update .| First Online Creator](https://www.youtube.com/watch?v=IIXWeypVTUI)
+- [Automation Lazada - Setting Akun Cludinary](https://www.youtube.com/watch?v=ZwDjOT7w-gY)
+- [How Generat Privacy Policy | Privacy Policy For Android App | How make Privacy Policy For Kodular](https://www.youtube.com/watch?v=UYX3aC-LhXU)
+- [Glide Tutorial: Image Overlays w/ Cloudinary](https://www.youtube.com/watch?v=pF8ywM0c2TY)
+- [Glide Tutorial: Fetch and Filter ANY Image using Cloudinary](https://www.youtube.com/watch?v=XScJD7IRlc8)
+- [Glide Tutorial: Image Filters and Overlays w/ Cloudinary](https://www.youtube.com/watch?v=cGCVJrczIHc)
+- [Lumavate Expands Platform Features for Marketers](https://www.youtube.com/watch?v=A-lPs7PH8fM)
+- [สร้างเวบแอพด้วย NextJS, Graphql, Apollo Client - 17 Upload Image to Cloudinary](https://www.youtube.com/watch?v=yUmQsNmGxiA)
+- [Galería de imágens con Cloudinary, Spring-Boot, Angular 8 y MySQL: Capítulo 3_B](https://www.youtube.com/watch?v=pxQoy4KdtZA)
+- [Стрелялка по вампирам на Javascript](https://www.youtube.com/watch?v=8Tej9qmLGuM)
+- [YouTube Videos Tags With Description Show in App | Free AIA File|| First Online Creator..](https://www.youtube.com/watch?v=pMkRV16yrkw)
+- [17 cloudinary image hosting account settings](https://www.youtube.com/watch?v=u8LAbMjE2Tk)
+- [cara upload massal | mass upload tokopedia scrape dari shopee](https://www.youtube.com/watch?v=w4SILHLtNWQ)
+- [Cloudinary Digital Asset Management Scenario - Moderating External Content in the DAM](https://www.youtube.com/watch?v=dekWk6zUYVw)
+- [Cloudinary Digital Asset Management Scenario - Uploading Content to the DAM](https://www.youtube.com/watch?v=NLGmhNjSBcY)
+- [Add WaterMark to uploaded images with NodeJS Multer and Cloudinary](https://www.youtube.com/watch?v=38cqwqLpMU0)
+- [Cloudinary - Group 9](https://www.youtube.com/watch?v=FlQPhKgzW-I)
+- [Create social images for blogs post with Cloudinary (Feb. 14, 2020)](https://www.youtube.com/watch?v=4zR-gRA-G1Y)
+- [Upload an image to Cloudinary](https://www.youtube.com/watch?v=OBbyMSKBC1g)
+
 
 ## Showcase
+> Showcase anything you have built in this section by opening up a PR
 
-"New Section"
 
 ## Tools
-
 > List of tools and libraries for Cloudinary
+
 - [Cloudinary NPM](https://www.npmjs.com/package/cloudinary)
 - [Cloudinary React Library NPM](https://www.npmjs.com/package/cloudinary-react)
 - [Magento Cloudinary Image & Video Management](https://marketplace.magento.com/cloudinary-cloudinary.html)
@@ -433,6 +467,15 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Mailinary](https://github.com/cloudinary/mailinary)
 - [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary)
 - [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary)
+- [Video Streaming Software Market](https://www.futuremarketinsights.com/reports/video-streaming-software-market)
+- [el3zahaby/cloudder](https://github.com/el3zahaby/cloudder)
+- [Contests for Facebook | Subprocessors](https://contest-app.co/policies/subprocessors/)
+- [Seeking expert cloudinary platform](https://www.twago.com/project/seeking-expert-cloudinary-platform/157933/)
+- [Cloudimage, deliver lightning fast images to your users | WPCent.com](https://wpcent.com/cloudimage/)
+- [Enquetes para Facebook | Subprocessors](https://enquete-app.com/policies/subprocessors/)
+- [uniformdev/sugcon-jss](https://github.com/uniformdev/sugcon-jss)
+- [fauna-brecht/fwitter](https://github.com/fauna-brecht/fwitter)
+- [use-cloudinary](https://www.npmjs.com/package/use-cloudinary)
 
 ## Companies
 
