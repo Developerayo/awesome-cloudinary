@@ -208,6 +208,11 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Automate the Boring Stuff with Postman: Syncing Product Screenshots](https://medium.com/@kylecalicast/automate-the-boring-stuff-with-postman-syncing-product-screenshots-3af6e0e2e2cf)
 - [React, Angular, Node In-Depth Guide: Beginner to Pro (2020)](https://couponfreediscount.blogspot.com/2020/04/react-angular-node-in-depth-guide.html)
 - [Hasty Treat - 5 Things That Make Your Site Slow — Syntax Podcast 239](https://syntax.fm/show/239/hasty-treat-5-things-that-make-your-site-slow)
+- [How 9 HR Leaders Are Working to Create a Sense of Normalcy During Crisis](https://www.cmswire.com/leadership/how-9-hr-leaders-are-working-to-create-a-sense-of-normalcy-during-crisis/)
+- [Tips on HR in a pandemic - more to do than just 'keep calm and carry on'](https://diginomica.com/tips-hr-pandemic-more-do-just-keep-calm-and-carry)
+- [Social Media Social Distancing](https://dougsillars.com/2020/04/14/social-media-social-distancing/)
+- [JSFeeds: egghead.io - egghead: Nader Dabit - Full Stack Development in the Era of Serverless Computing](https://jsfeeds.com/details/egghead-nader-dabit-full-stack-development-in-the-era-of-serverless-computing-5e94bc563bb245761eb63b3a?s=rss)
+- [Cloudinary Launches Enhanced WordPress Plugin, Named a WordPress VIP Technology Partner](https://www.tmcnet.com/usubmit/2020/04/07/9127840.htm)
 
 ## Companies
 
