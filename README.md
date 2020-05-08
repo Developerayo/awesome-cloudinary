@@ -21,6 +21,8 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Books](#books)
 - [Videos](#videos)
 - [Showcase](#showcase)
+- [Events](#events)
+- [Slides](#slides)
 - [Tools and Packages](#tools)
 - [Companies](#companies)
 - [Media Developer Experts](#media-developer-experts)
@@ -247,7 +249,6 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Image/File Upload in Adonis.js with Cloudinary | Codementor](https://www.codementor.io/@amooabeebi0/image-file-upload-in-adonis-js-with-cloudinary-14klwo68tw)
 - [Tools for Optimizing SVG](https://all-markup-news.com/tools-for-optimizing-svg/)
 - [R/GA to push 'lean stack' martech offering | Advertising | Campaign Asia](https://www.campaignasia.com/article/r-ga-to-push-lean-stack-martech-offering/458829)
-- [unStack Workshop on React.js to Kick Off Soon in Lagos](https://dev.to/developerayo/unstack-workshop-on-react-js-to-kick-off-soon-in-lagos-2ido)
 - [Global Video CMS Software Market Report 2020-2026 by Technology, Future Trends, Opportunities, Top Key Players and more…](https://www.abnewswire.com/pressreleases/global-video-cms-software-market-report-20202026-by-technology-future-trends-opportunities-top-key-players-and-more_473840.html)
 - [Full-Stack React, Python, and GraphQL](https://couponfreediscount.blogspot.com/2020/03/full-stack-react-python-and-graphql.html)
 - [Compositing Transparent Background Renders for the Web](https://blendergrid.com/learn/articles/compositing-transparent-background-renders-for-the-web)
@@ -428,12 +429,23 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Create social images for blogs post with Cloudinary (Feb. 14, 2020)](https://www.youtube.com/watch?v=4zR-gRA-G1Y)
 - [Upload an image to Cloudinary](https://www.youtube.com/watch?v=OBbyMSKBC1g)
 
-
 ## Showcase
 > Showcase anything you have built in this section by opening up a PR
 
 - [Mocktail](https://jordanmerrick.com/shortcuts/mocktail/)
 - [Gutenberging](http://damianfallon.blogspot.com/2020/02/gutenberging.html)
+
+# Events
+- [unStack Workshop on React.js to Kick Off Soon in Lagos](https://dev.to/developerayo/unstack-workshop-on-react-js-to-kick-off-soon-in-lagos-2ido)
+- [Vue Community Virtual event - 2 great sessions about JAMstack and Performance](https://www.meetup.com/en-AU/VueJS-Oslo/events/270218508/)
+- [SeattleVueJS - April Meetup on ZOOM!](https://www.meetup.com/en-AU/SeattleVueJS/events/269534399/)
+- [SeattleVueJS - May Meetup VIRTUAL! - Vue.js WORKSHOP for Beginners!](https://www.meetup.com/en-AU/SeattleVueJS/events/269959927/)
+- [Le Wagon Talk - Tamas Piros, Developer Evangelist at Cloudinary](https://www.eventbrite.sg/e/le-wagon-talk-tamas-piros-developer-evangelist-at-cloudinary-tickets-97822769537)
+- [How Bleacher Report Wins in Video: Lessons From a Market Leader](https://event.webcasts.com/starthere.jsp?ei=1283227&tp_key=af8fb41507&sti=webinar_page)
+- [【5/1（金）ウェビナー】「今知っておきたいSaaSのAtoZ」を開催します ｜ Developers.IO](https://dev.classmethod.jp/news/200511-saas-webinar/)
+- [Program - Vue.js Conference - Amsterdam](https://vuejs.amsterdam/program)
+
+
 
 ## Tools
 > List of tools and libraries for Cloudinary
