@@ -192,6 +192,12 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Digital Asset Management platforms](https://downloads.digitalmarketingdepot.com/MIR_1910_DAMgmtGuid_landingpage_amplify.html)
 - [Cloudinary Launches Media Management Program for Nonprofits](https://martechseries.com/content/digi-asset-mgmt/cloudinary-launches-media-management-program-nonprofits/)
 - [Moving to 11ty](https://smcllw.me/posts/11ty/)
+- [Art Directing Images, the Picture Element, and Image CDNs | CSS-Tricks](https://css-tricks.com/video-screencasts/183-art-directing-images-the-picture-element-and-image-cdns/)
+- [Underlining a Report Column Across the Entire Row](http://forums.informationbuilders.com/eve/forums/a/tpc/f/7971057331/m/4217081396?r=7437091396)
+- [Interview with Director of Business Development, Cloudinary – Gary Ballabio](https://www.martechcube.com/interview-with-director-of-business-development-cloudinary-gary-ballabio/)
+- [](https://gatsby-transformer-cloudinary.netlify.app/gifs/)
+- [My New Website! Here are the deets](https://wesbos.com/new-wesbos-website)
+- [Cloudinary Launches Media Management Program for Nonprofits](https://www.businesswire.com/news/home/20200421005501/en/Cloudinary-Launches-Media-Management-Program-Nonprofits)
 
 ## Companies
 
