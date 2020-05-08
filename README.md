@@ -245,6 +245,10 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [14 Best Node JS Frameworks 2020 for Website Appearance on Top](https://www.credencys.com/blog/best-node-js-frameworks/)
 - [Netlify CMSを用いてBlog記事を投稿する - iKenichi Blog](https://www.ishikawa-ke.com/posts/netlify-cms%E3%82%92%E7%94%A8%E3%81%84%E3%81%A6blog%E8%A8%98%E4%BA%8B%E3%82%92%E6%8A%95%E7%A8%BF%E3%81%99%E3%82%8B/)
 - [Joining the fight against Covid-19 with technology](https://medium.com/@akitikkx/joining-the-fight-against-covid-19-with-technology-covid-19-global-hackathon-933d0dcc2609)
+- [Logs · Avi Aryan](https://aviaryan.com/logs/)
+- [Create Fast, Pre-rendered Pages in Angular using Scully](https://www.netlify.com/blog/2020/04/03/creating-a-pre-rendered-home-page-with-angular-and-scully/)
+- [Simple Ways to Improve Video ROI](https://www.cmswire.com/digital-marketing/simple-ways-to-improve-video-roi/)
+- [Чёткость до последнего байта: как делать веб-графику хорошо, часть вторая — Дизайн на vc.ru](https://vc.ru/design/117357-chetkost-do-poslednego-bayta-kak-delat-veb-grafiku-horosho-chast-vtoraya)
 
 ## Companies
 
