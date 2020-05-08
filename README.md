@@ -502,6 +502,15 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [jhauraw/axiom](https://github.com/jhauraw/axiom)
 - [Building an OpenGraph image generation API with Cloudinary, Netlify Functions, and React - CodeSandbox](https://codesandbox.io/s/zjf2b)
 - [Fix Cloudinary image uploads via Netlify CMS by nholden · Pull Request #271 · texas-justice-initiative/website-nextjs](https://github.com/texas-justice-initiative/website-nextjs/pull/271)
+- [gatsby-source-cloudinary](https://www.gatsbyjs.org/packages/gatsby-source-cloudinary/)
+- [Cloudinary and Firebase endpoints by kylorobs · Pull Request #2 · KCLSU/HEROKU_advice_form](https://github.com/KCLSU/HEROKU_advice_form/pull/2)
+- [yoelpc4/laravel-cloudinary](https://github.com/yoelpc4/laravel-cloudinary)
+- [nakadamakoto/gatsby-starter-netlify-cms](https://github.com/nakadamakoto/gatsby-starter-netlify-cms)
+- [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/5-open-source-digital-asset-management-tools-to-check-out.md)
+- [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/digital-asset-management-what-it-is-and-how-it-can-help-your-business.md)
+- [day4/cloudinary](https://packagist.org/packages/day4/cloudinary)
+- [komfy/cloudinary](https://github.com/komfy/cloudinary)
+- [使用 BeiDa firebase 和 cloudinary by sabgkang · Pull Request #1 · BeiDa-uGym/BeiDa-couponWebAdmin2](https://github.com/BeiDa-uGym/BeiDa-couponWebAdmin2/pull/1)
 
 ## Companies
 
