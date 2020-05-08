@@ -346,6 +346,13 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Download HD Photo status AIA file free and Recycle photo viewer extension |  App for play store.](https://www.youtube.com/watch?v=-xVkeQyOjfM)
 - [Cloudinary NodeJS Backend Server](https://www.youtube.com/watch?v=iMWfi4kYIq8)
 - [Cursos de JavaScript - Nodejs Curso Desde Cero, para principiantes](https://www.lawebdelprogramador.com/cursos/JavaScript/10621-Nodejs-Curso-Desde-Cero-para-principiantes.html)
+- [Cloudinary v2 Plugin Review | WordPress (Web Design 2020)](https://www.youtube.com/watch?v=pqq2ownHzPM)
+- [#25 Cloudinary : How to upload Videos & Images to Cloudinary from kodular apps](https://www.youtube.com/watch?v=b8yOJSsDe_A)
+- [Ударная установка на Javascript](https://www.youtube.com/watch?v=oZYdYOxuTdM)
+- [Team First – Corona edition and SEO in a Vue.js world](https://www.youtube.com/watch?v=jxUHiSSXE18)
+- [Full Dynamic music player online and offline, apk& aia file || Koduler, First Online Creator..](https://www.youtube.com/watch?v=Pp4S6UhDeb0)
+- [Pt 5-Building your own Instagram - Implementing Authentication, Posts,Profile page on client](https://www.youtube.com/watch?v=GTK1cNhdIN8)
+- [How you can turn on YouTube monetization in a short period of time means four hours of watch time.](https://www.youtube.com/watch?v=TGQnzIqQYEY)
 
 ## Showcase
 
