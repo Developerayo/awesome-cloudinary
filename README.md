@@ -267,6 +267,16 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Traveling the World Virtually](https://dougsillars.com/2020/03/31/traveling-the-world-virtually/)
 - [Rails: Coding a Photo Gallery App](https://medium.com/@haseebchaudhary_98209/rails-building-a-photo-gallery-app-cac385c75cdc)
 - [Build a Realtime App with React Hooks and GraphQL](http://www.freecoursesitenet.com/2019/08/build-a-realtime-app-with-react-hooks-and-graphql.html)
+- [React Native : How to upload an image to cloudinary](https://ogcodes.hashnode.dev/react-native-how-to-upload-an-image-to-cloudinary-ck8cxxf5s00ohxjs11kdq3scm)
+- [Flutter: How to Upload to Cloudinary](https://medium.com/@cyuket/flutter-how-to-upload-to-cloudinary-cdb7631dfbe1)
+- [5 digital sales enablement tools to boost productivity](https://searchcustomerexperience.techtarget.com/tip/5-digital-sales-enablement-tools-to-boost-productivity)
+- [March Media Madness Takeaways [Yet Another Cloudinary Blog post] - Part II](https://dev.to/shazomii/march-media-madness-takeaways-yet-another-cloudinary-blog-post-part-ii-3g2b)
+- [B2B E-Commerce Solutions and Services - Intershop Communications AG](https://synaptic.intershop.com/Partners/Cloudinary-Ltd-zid110823178)
+- [The making of Spazi: My portfolio project <3](https://www.linkedin.com/pulse/making-spazi-my-portfolio-project-3-daniela-g%C3%B3mez)
+- [React, Angular, Node In-Depth Guide: Beginner to Pro (2020)](http://www.couponfree.uk/2020/03/react-angular-node-in-depth-guide.html)
+- [PowerAppsからAzure Blob Storageに画像をアップロードする - Life is Like a Boat](https://nerimplo.hatenablog.com/entry/2020/03/26/170000)
+- [My experience building Spazi](https://medium.com/@carlosz22/my-experience-building-spazi-a0ad53f88be1)
+- [Images of The Future](https://mailchi.mp/forloop/images-of-the-future)
 
 ## Companies
 
