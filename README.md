@@ -511,6 +511,17 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [day4/cloudinary](https://packagist.org/packages/day4/cloudinary)
 - [komfy/cloudinary](https://github.com/komfy/cloudinary)
 - [使用 BeiDa firebase 和 cloudinary by sabgkang · Pull Request #1 · BeiDa-uGym/BeiDa-couponWebAdmin2](https://github.com/BeiDa-uGym/BeiDa-couponWebAdmin2/pull/1)
+- [ramaprashanth](https://stackshare.io/ramaprashanth/stacks)
+- [frederic2ec/ghost-on-heroku](https://elements.heroku.com/buttons/frederic2ec/ghost-on-heroku)
+- [vue-js-israel/meetups](https://github.com/vue-js-israel/meetups/blob/master/feb_2020_meetup.md)
+- [A collection of talks/slides (where available) from #vuejsamsterdam 2020](https://gist.github.com/rculp/942cbddd35464b5312dbfa62b75e7b09)
+- [History](https://jekyllrb.com/docs/history/)
+- [akeren/nodejs-blog](https://github.com/akeren/nodejs-blog)
+- [Pipit Cloudinary v1.2](https://grabapipit.com/news/pipit-cloudinary-v1-2)
+- [Salesforce (CRM) 20180830](https://www.slideshare.net/StobvniDetimil/salesforce-crm-20180830)
+- [OsamaAdam98/indie-photographers](https://github.com/OsamaAdam98/indie-photographers)
+- [KeyError at /api/v1/plan/weekly 'user_id' Request Method: GET Request URL: - Pastebin.com](https://pastebin.com/AGXwGLre)
+- [ngx-picture](https://www.npmjs.com/package/ngx-picture)
 
 ## Companies
 
