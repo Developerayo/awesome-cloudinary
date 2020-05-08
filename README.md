@@ -257,6 +257,13 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Cloudinary Studio | CSS-Tricks](https://css-tricks.com/cloudinary-studio/)
 - [Santa Cruz Software Announces AEM Support for Two New Products at Adobe Summit 2020](http://tradeshownews.vporoom.com/2020-03-31-Santa-Cruz-Software-Announces-AEM-Support-for-Two-New-Products-at-Adobe-Summit-2020)
 
+
+- [Cloudinary Reviews 2020](https://www.capterra.com/p/135074/Cloudinary/reviews/)
+- [Santa Cruz Software Announces AEM Support for Two New Products at Adobe Summit 2020 - Santa Cruz Tech Beat](https://www.santacruztechbeat.com/2020/03/31/santa-cruz-software-announces-aem-support-for-two-new-products-at-adobe-summit-2020/)
+- [2020年3月の振り返りと4月の目標 - フロントエンドの地獄](https://blog.nabettu.com/entry/monthly_report202003)
+- [How to Improve Page Speed from Start to Finish (Advanced Guide)](https://ahrefs.com/blog/advanced-pagespeed-guide/)
+- [Santa Cruz Software Announces AEM Support for Two New Products at Adobe Summit 2020](https://www.prnewswire.com/news-releases/santa-cruz-software-announces-aem-support-for-two-new-products-at-adobe-summit-2020-301032415.html)
+
 ## Companies
 
 > List of a few companies using Cloudinary
