@@ -204,6 +204,10 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Full-stack Developer to exciting startup!](https://webbjobb.io/jobb/137845/full-stack-developer-to-exciting-startup)
 - [Suitsupply](http://stackoverflow.com/jobs/companies/suitsupply)
 - [Build a Realtime App with React Hooks and GraphQL - Reviews & Coupon - Java Code Geeks](https://courses.javacodegeeks.com/build-a-realtime-app-with-react-hooks-and-graphql/)
+- [坂道グループの公式HPからメンバー画像をスクレイピングする - Qiita](https://qiita.com/kitarikes/items/502f5a85465b01caff53)
+- [Automate the Boring Stuff with Postman: Syncing Product Screenshots](https://medium.com/@kylecalicast/automate-the-boring-stuff-with-postman-syncing-product-screenshots-3af6e0e2e2cf)
+- [React, Angular, Node In-Depth Guide: Beginner to Pro (2020)](https://couponfreediscount.blogspot.com/2020/04/react-angular-node-in-depth-guide.html)
+- [Hasty Treat - 5 Things That Make Your Site Slow — Syntax Podcast 239](https://syntax.fm/show/239/hasty-treat-5-things-that-make-your-site-slow)
 
 ## Companies
 
