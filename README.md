@@ -232,6 +232,12 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [New 3U CompactPCI Rugged Single Board Computer Provides Extended Availability](https://www.aithority.com/machine-learning/memory-based-learning/new-3u-compactpci-rugged-single-board-computer-provides-extended-availability-for-long-term-programs/)
 - [EnterpriseDB Extends Support Services to Amazon RDS for PostgreSQL](https://www.aithority.com/ait-featured-posts/enterprisedb-extends-support-services-to-amazon-rds-for-postgresql-and-microsoft-azure-database-for-postgresql/)
 - [Cloudinary WordPress Plugin Review](https://thedevcouple.com/cloudinary-wordpress-review/)
+- [COVID-19 TRACKER - My Contribution So Far!](https://dev.to/ebereplenty/covid-19-tracker-my-contribution-so-far-48ph)
+- [5+ CDN gratuits pour améliorer la vitesse de votre site](https://www.codeur.com/blog/cdn-gratuits-ameliorer-vitesse-site/)
+- [Deploying a Django Application to Heroku](https://medium.com/python-in-plain-english/deploying-a-django-application-to-heroku-be8309da479d)
+- [Santa Cruz Software Introduces LinkrUI, Gamechanger For Design World](http://www.shapinginfluence.com/news/2020/04/07/9128054.htm)
+- Cloudinary Launches Enhanced WordPress Plugin[](https://www.aithority.com/technology/cloudinary-launches-enhanced-wordpress-plugin-named-a-wordpress-vip-technology-partner/)
+
 
 ## Companies
 
