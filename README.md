@@ -590,8 +590,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 
 # Media Developer Experts
 
-> A directory of all active Media Developer Experts! You can also connect with MDEs via the #mde
-> Discord Channel.
+> A directory of all active Media Developer Experts! You can also connect with MDEs via the #general Discord Channel, Look under #community to find the link
 
 | Name                     | Work                                                       | Twitter          |
 | ------------------------ | ---------------------------------------------------------- | ---------------- |
