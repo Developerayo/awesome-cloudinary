@@ -330,6 +330,21 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Cloud service for image uploads](https://stackoverflow.com/questions/39512851/cloud-service-for-image-uploads)
 - [What options are there for cloud based FFMPEG processing?](https://video.stackexchange.com/questions/21447/what-options-are-there-for-cloud-based-ffmpeg-processing)
 - [Wordpress Optimization: The Complete Guide](https://it.toolbox.com/blogs/manjunathmatathamana/wordpress-optimization-the-complete-guide-112018)
+- [In how many ways can we store images of our web application?](https://www.quora.com/In-how-many-ways-can-we-store-images-of-our-web-application)
+- [How to change image resolution by URL?](https://stackoverflow.com/questions/46035474/how-to-change-image-resolution-by-url)
+- [Comparing the Best DAM Software of 2019](https://dev.to/chenshemtov/comparing-the-best-dam-software-of-2019-3f41)
+- [images optimization in laravel application](https://stackoverflow.com/questions/45548598/images-optimization-in-laravel-application)
+- [Animated GIF and Video Compared: Which Should You Prefer and Why?](https://dev.to/chenshemtov/animated-gif-and-video-compared-which-should-you-prefer-and-why-j51)
+- [Image optimization in asp.net core application](https://scotch.io/@chilas/image-optimization-in-aspnet-core-application)
+- [what is the meaning of upload image, how can we use that](https://stackoverflow.com/questions/45874726/what-is-the-meaning-of-upload-image-how-can-we-use-that)
+- [5 Cool Image Effects You Can Achieve with Basic CSS | Codementor](https://www.codementor.io/@ronanmahony/5-cool-image-effects-you-can-achieve-with-basic-css-fmidsd2m2)
+- [Defining HTML5 & HTML5 Video](http://sites.middlebury.edu/alsaeed1blog/2018/05/22/defining-html5-html5-video/)
+- [Top 5 Free Digital Asset Management Software — Steemit](https://steemit.com/digital/@giladm/top-5-free-digital-asset-management-software)
+- [Improving Your UI Experience With HTML5](https://scotch.io/@jackhiston/improving-your-ui-experience-with-html5)
+- [Where can I find a good image upload plugin? I want an image upload plugin which supports multiple image uploads with preview, delete and an input field for captions in PHP. I also want to store the data in a database.](https://www.quora.com/Where-can-I-find-a-good-image-upload-plugin-I-want-an-image-upload-plugin-which-supports-multiple-image-uploads-with-preview-delete-and-an-input-field-for-captions-in-PHP-I-also-want-to-store-the-data-in-a-database)
+- [How to optimize GIF format images that do not hurt hurt page loading time](https://www.quora.com/How-can-I-optimize-GIF-format-images-that-do-not-hurt-hurt-page-loading-time)
+- [Upload Image via facebook marketing api through browser](https://stackoverflow.com/questions/45490087/upload-image-via-facebook-marketing-api-through-browser)
+- [Salesforce Commerce Cloud: Latest Features and Updates](https://blog.enree.co/2020/01/salesforce-commerce-cloud-latest-features-and-updates.html)
 
 ## Companies
 
