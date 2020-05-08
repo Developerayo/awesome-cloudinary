@@ -384,6 +384,13 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Implementing Cloudinary images for responsive images in 11ty](https://www.youtube.com/watch?v=htHTc9iyx58)
 - [Аналоговые механические часы на CSS и Javascript](https://www.youtube.com/watch?v=a4IpKlo6igk)
 - [Using Cloudinary as a write-through cache for a Netlify Function that generates images](https://egghead.io/lessons/javascript-using-cloudinary-as-a-write-through-cache-for-a-netlify-function-that-generates-images)
+- [Cloudinary -  Presentation](https://www.youtube.com/watch?v=BhQ6jmx1LHc)
+- [Démo ThingsThatMatter](https://www.youtube.com/watch?v=niJhattzhWk)
+- [Image Upload - Cloudinary](https://www.youtube.com/watch?v=7rBYUIOjPG0)
+- [How To Generate Privacy Policy For Your ANY APPLICATION|| First Online Creator](https://www.youtube.com/watch?v=gZx69VkDVfc)
+- [3D-книга Гарри Поттера на чистом CSS](https://www.youtube.com/watch?v=dUEOwnqb8qs)
+- [Paano Gamiting ang Cloudinary as Image Source in Mass or Bulk Listing sa Shopee or Lazada](https://www.youtube.com/watch?v=p1to1D1OSGU)
+- [Building an OpenGraph image generation API with Cloudinary, Netlify Functions, and React](https://egghead.io/playlists/building-an-opengraph-image-generation-api-with-cloudinary-netlify-functions-and-react-914e)
 
 ## Showcase
 
