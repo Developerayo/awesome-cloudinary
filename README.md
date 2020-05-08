@@ -174,6 +174,12 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Redesigning iMessage for better user experience — a UX case study](https://uxdesign.cc/redesigning-imessage-for-better-user-experience-a-ux-case-study-e542c77fc77)
 - [פנאי - מ-Drivenets ועד למשחקי מובייל של MoonActive](https://www.calcalist.co.il/internet/articles/0,7340,L-3811470,00.html)
 - [Top Israeli Startups 2020: Most Promising Entertainment and Media Companies](https://www.calcalistech.com/ctech/articles/0,7340,L-3812290,00.html)
+- [Why you shouldn't host video on your website - Curveball Media](https://www.curveball-media.co.uk/why-you-shouldnt-host-video-on-your-website/)
+- [PHP cURL Kullanımı - ceaksan](https://ceaksan.com/tr/php-curl-kullanimi/)
+- [Cloudinary and Postgresql - Persisting and Retrieving Images Using Nodejs](https://dev.to/ebereplenty/cloudinary-and-postgresql-persisting-and-retrieving-images-using-nodejs-31b2)
+- [Rethinking Twitter as a Serverless App | Devs' Hive](https://devshive.tech/link/byiwjhbti/rethinking-twitter-as-a-serverless-app)
+- [50 Most Promising Israeli Startups 2020 - Covid-19 Edition](https://www.calcalistech.com/ctech/articles/0,7340,L-3812230,00.html)
+- [Development of static sites with JAM Stack and dynamic content](https://divante.com/blog/development-of-static-sites-with-jam-stack-and-dynamic-content/)
 
 ## Companies
 
