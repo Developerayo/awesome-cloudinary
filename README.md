@@ -492,7 +492,16 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [godswillokokon/ImagePickerCloudinary](https://github.com/godswillokokon/ImagePickerCloudinary)
 - [uploade image to cloudinary using multer by phantware · Pull Request #6 · phantware/reflection_API](https://github.com/phantware/reflection_API/pull/6)
 - [Add cloudinary and restframework settings by IanMK-1 · Pull Request #1 · Bryan4real/neighbourhood-watch-backend](https://github.com/Bryan4real/neighbourhood-watch-backend/pull/1)
-
+- [GameWith/Front-End-Performance-Checklist](https://github.com/GameWith/Front-End-Performance-Checklist)
+- [laurosilvacom/Full-Stack-Development-in-Era-of-Serverless](https://github.com/laurosilvacom/Full-Stack-Development-in-Era-of-Serverless)
+- [nokenwa/TwilioWhatsAppMothersDayPhotoBook](https://github.com/nokenwa/TwilioWhatsAppMothersDayPhotoBook/commits?author=nokenwa&since=2020-03-01&until=2020-03-26)
+- [nokenwa/TwilioWhatsAppMothersDayPhotoBook](https://github.com/nokenwa/TwilioWhatsAppMothersDayPhotoBook)
+- [Adding Cloudinary integration. by federicociner · Pull Request #1 · federicociner/federicociner.com](https://github.com/federicociner/federicociner.com/pull/1)
+- [Midnight Lizard](https://GitHub.com/Midnight-Lizard)
+- [nhoizey/eleventy-plugin-images-responsiver](https://github.com/nhoizey/eleventy-plugin-images-responsiver)
+- [jhauraw/axiom](https://github.com/jhauraw/axiom)
+- [Building an OpenGraph image generation API with Cloudinary, Netlify Functions, and React - CodeSandbox](https://codesandbox.io/s/zjf2b)
+- [Fix Cloudinary image uploads via Netlify CMS by nholden · Pull Request #271 · texas-justice-initiative/website-nextjs](https://github.com/texas-justice-initiative/website-nextjs/pull/271)
 
 ## Companies
 
