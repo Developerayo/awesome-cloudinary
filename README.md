@@ -108,61 +108,6 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Responsive Images in WordPress with Cloudinary, Part 2](https://css-tricks.com/responsive-images-wordpress-cloudinary-part-2/)
 - [Using Cloudinary Without the Cloudinary Ruby Gem](https://www.msgtrail.com/articles/20190713-2025-using-cloudinary-without-the-cloudinary-ruby-gem/)
 - [How to deliver video the right way](https://timbenniks.nl/writings/how-to-deliver-video-the-right-way/)
-
-## Books
-
-- [Resizing images and transformations with Cloudinary](https://www.oreilly.com/library/view/mean-cookbook/9781787286573/55c18af7-f0b5-47f1-a78e-06a9e11bc687.xhtml)
-
-## Videos
-
-- [Understanding Cloudinary Transformations and Pricing Plan](https://cloudinary.com/blog/understanding_cloudinary_s_transformation_quotas)
-- [What is Cloudinary?](https://www.youtube.com/watch?v=cHF2-559EVw)
-- [Image Upload in 15 Minutes with Cloudinary](https://www.youtube.com/watch?v=6uHfIv4981U)
-- [Cloudinary - Image Manipulation Demo](https://www.youtube.com/watch?v=P4FhRuttCgY)
-- [Tutorial - Introduction to Video Uploads](https://www.youtube.com/watch?v=6WBrnrFAOzo)
-
-## Showcase
-
-"New Section"
-
-## Tools
-
-> List of tools and libraries for Cloudinary
-
-- [Cloudinary NPM](https://www.npmjs.com/package/cloudinary)
-- [Cloudinary React Library NPM](https://www.npmjs.com/package/cloudinary-react)
-- [Magento Cloudinary Image & Video Management](https://marketplace.magento.com/cloudinary-cloudinary.html)
-- [[MODULE] Prestershop Cloudinary - Image CDN, Optimization, and Lazy Loading](https://www.prestashop.com/forums/topic/600589-module-cloudinary-image-cdn-optimization-and-lazy-loading/)
-- [Wordpress Cloudinary – Image management and manipulation in the cloud + CDN](https://wordpress.org/plugins/cloudinary-image-management-and-manipulation-in-the-cloud-cdn/)
-- [Wordpress Auto Cloudinary](https://wordpress.org/plugins/auto-cloudinary/)
-- [Zapier Cloudinary Integrations](https://zapier.com/apps/cloudinary/integrations)
-- [Salesforce Cloudinary Integration](https://www.salesforce.com/products/commerce-cloud/partner-marketplace/partners/cloudinary/)
-- [PHP Cloudinary](https://packagist.org/packages/cloudinary/cloudinary_php)
-- [Contentful Cloudinary](https://www.contentful.com/developers/marketplace/cloudinary/)
-- [Cloudinary Debugger](https://chrome.google.com/webstore/detail/cloudinary-debugger/ehnkhkglbafecknplfmjklnnjimokpkg)
-- [Cloudinary + Ghost](https://ghost.org/integrations/cloudinary/)
-- [gatsby-transformer-cloudinary](https://www.gatsbyjs.org/packages/gatsby-transformer-cloudinary/)
-- [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary)
-- [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress)
-- [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player)
-- [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php)
-- [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli)
-- [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios)
-- [Cloudinary Java](https://github.com/cloudinary/cloudinary_java)
-- [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet)
-- [Cloudinary Magento](https://github.com/cloudinary/cloudinary_magento)
-- [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue)
-- [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem)
-- [Cloudinary Angular](https://github.com/cloudinary/cloudinary_angular)
-- [Cloudinary Kotlin](https://github.com/cloudinary/cloudinary_kotlin)
-- [Wdio-allure-ts](https://github.com/cloudinary/wdio-allure-ts)
-- [Cloudinary Android](https://github.com/cloudinary/cloudinary_android)
-- [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator)
-- [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server)
-- [Cloudinary JS Streaming](https://github.com/cloudinary/cloudinary-js-streaming)
-- [Mailinary](https://github.com/cloudinary/mailinary)
-- [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary)
-- [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary)
 - [Простой подход к работе с отзывчивыми изображениями](https://habr.com/ru/company/ruvds/blog/500292/)
 - [Dealing with dynamic images in Gatsby](https://fmontes.com/blog/dynamic-gatsby-images-an-anternative/)
 - [Build Telegram Bot without code and get notifications](https://dev.to/mddanishyusuf/build-telegram-bot-without-code-and-get-notifications-27aj)
@@ -385,6 +330,64 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Automation Hacks for DevOps Teams - DevOps.com](https://devops.com/automation-hacks-for-devops-teams/)
 - [💻 How I Built My Blog with Gatsby and Ghost](https://www.conordewey.com/blog/building-my-blog-with-gatsby-and-ghost/)
 - [Making ‘Real-Time’ Personalization Possible](https://www.martechadvisor.com/articles/customer-experience-2/making-real-time-personalization-possible/)
+
+## Books
+
+- [Resizing images and transformations with Cloudinary](https://www.oreilly.com/library/view/mean-cookbook/9781787286573/55c18af7-f0b5-47f1-a78e-06a9e11bc687.xhtml)
+
+## Videos
+
+- [Understanding Cloudinary Transformations and Pricing Plan](https://cloudinary.com/blog/understanding_cloudinary_s_transformation_quotas)
+- [What is Cloudinary?](https://www.youtube.com/watch?v=cHF2-559EVw)
+- [Image Upload in 15 Minutes with Cloudinary](https://www.youtube.com/watch?v=6uHfIv4981U)
+- [Cloudinary - Image Manipulation Demo](https://www.youtube.com/watch?v=P4FhRuttCgY)
+- [Tutorial - Introduction to Video Uploads](https://www.youtube.com/watch?v=6WBrnrFAOzo)
+- [All in one video download app aia file. Koduler / paid aia. First Online Creator.](https://www.youtube.com/watch?v=669Pq51cVx8)
+- [Download HD Photo status AIA file free and Recycle photo viewer extension |  App for play store.](https://www.youtube.com/watch?v=-xVkeQyOjfM)
+- [Cloudinary NodeJS Backend Server](https://www.youtube.com/watch?v=iMWfi4kYIq8)
+- [Cursos de JavaScript - Nodejs Curso Desde Cero, para principiantes](https://www.lawebdelprogramador.com/cursos/JavaScript/10621-Nodejs-Curso-Desde-Cero-para-principiantes.html)
+
+## Showcase
+
+"New Section"
+
+## Tools
+
+> List of tools and libraries for Cloudinary
+- [Cloudinary NPM](https://www.npmjs.com/package/cloudinary)
+- [Cloudinary React Library NPM](https://www.npmjs.com/package/cloudinary-react)
+- [Magento Cloudinary Image & Video Management](https://marketplace.magento.com/cloudinary-cloudinary.html)
+- [[MODULE] Prestershop Cloudinary - Image CDN, Optimization, and Lazy Loading](https://www.prestashop.com/forums/topic/600589-module-cloudinary-image-cdn-optimization-and-lazy-loading/)
+- [Wordpress Cloudinary – Image management and manipulation in the cloud + CDN](https://wordpress.org/plugins/cloudinary-image-management-and-manipulation-in-the-cloud-cdn/)
+- [Wordpress Auto Cloudinary](https://wordpress.org/plugins/auto-cloudinary/)
+- [Zapier Cloudinary Integrations](https://zapier.com/apps/cloudinary/integrations)
+- [Salesforce Cloudinary Integration](https://www.salesforce.com/products/commerce-cloud/partner-marketplace/partners/cloudinary/)
+- [PHP Cloudinary](https://packagist.org/packages/cloudinary/cloudinary_php)
+- [Contentful Cloudinary](https://www.contentful.com/developers/marketplace/cloudinary/)
+- [Cloudinary Debugger](https://chrome.google.com/webstore/detail/cloudinary-debugger/ehnkhkglbafecknplfmjklnnjimokpkg)
+- [Cloudinary + Ghost](https://ghost.org/integrations/cloudinary/)
+- [gatsby-transformer-cloudinary](https://www.gatsbyjs.org/packages/gatsby-transformer-cloudinary/)
+- [pycloudinary - Python package for cloudinary ](https://github.com/cloudinary/pycloudinary)
+- [Cloudinary Wordpress](https://github.com/cloudinary/cloudinary_wordpress)
+- [Cloudinary Video Player](https://github.com/cloudinary/cloudinary-video-player)
+- [Cloudinary PHP](https://github.com/cloudinary/cloudinary_php)
+- [Cloudinary Cli](https://github.com/cloudinary/cloudinary-cli)
+- [Cloudinary IOS](https://github.com/cloudinary/cloudinary_ios)
+- [Cloudinary Java](https://github.com/cloudinary/cloudinary_java)
+- [CloudinaryDotNet](https://github.com/cloudinary/CloudinaryDotNet)
+- [Cloudinary Magento](https://github.com/cloudinary/cloudinary_magento)
+- [Cloudinary Vue](https://github.com/cloudinary/cloudinary-vue)
+- [Cloudinary Gem](https://github.com/cloudinary/cloudinary_gem)
+- [Cloudinary Angular](https://github.com/cloudinary/cloudinary_angular)
+- [Cloudinary Kotlin](https://github.com/cloudinary/cloudinary_kotlin)
+- [Wdio-allure-ts](https://github.com/cloudinary/wdio-allure-ts)
+- [Cloudinary Android](https://github.com/cloudinary/cloudinary_android)
+- [Responsive Breakpoints Generator](https://github.com/cloudinary/responsive_breakpoints_generator)
+- [Web Speed Test Server](https://github.com/cloudinary/web-speed-test-server)
+- [Cloudinary JS Streaming](https://github.com/cloudinary/cloudinary-js-streaming)
+- [Mailinary](https://github.com/cloudinary/mailinary)
+- [VUE Cli Plugin Cloudinary](https://github.com/cloudinary/vue-cli-plugin-cloudinary)
+- [Cloudinary React Hook](https://github.com/domitriusclark/use-cloudinary)
 
 ## Companies
 
