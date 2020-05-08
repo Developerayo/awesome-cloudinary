@@ -476,6 +476,23 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [uniformdev/sugcon-jss](https://github.com/uniformdev/sugcon-jss)
 - [fauna-brecht/fwitter](https://github.com/fauna-brecht/fwitter)
 - [use-cloudinary](https://www.npmjs.com/package/use-cloudinary)
+- [danielcspaiva/sacada_do_predio](https://github.com/danielcspaiva/sacada_do_predio)
+- [patarapolw/blogdown-cms](https://github.com/patarapolw/blogdown-cms)
+- [Shahzayb/jif-chat](https://github.com/Shahzayb/jif-chat)
+- [l4yton/RegHex](https://github.com/l4yton/RegHex)
+- [rpldy/react-uploady](https://github.com/rpldy/react-uploady)
+- [jlengstorf/get-share-image](https://github.com/jlengstorf/get-share-image)
+- [Shahzayb/freemage](https://github.com/Shahzayb/freemage)
+- [eexit/ghost-storage-cloudinary](https://github.com/eexit/ghost-storage-cloudinary)
+- [uniformdev/sitecore-mvc-nextjs-starterkit](https://github.com/uniformdev/sitecore-mvc-nextjs-starterkit)
+- [Dev forrest cloudinary by Fomiller · Pull Request #79 · Fomiller/Ultimate-Cookbook](https://github.com/Fomiller/Ultimate-Cookbook/pull/79)
+- [just use fetch I guess · joelhooks/joelhooks-opengraph-images&3c93292](https://github.com/joelhooks/joelhooks-opengraph-images/commit/3c9329282765b5dd04fdae324c371b4d0fc1db56)
+- [strapi/awesome-strapi](https://github.com/strapi/awesome-strapi)
+- [flannelware/torch-cellars](https://github.com/flannelware/torch-cellars)
+- [godswillokokon/ImagePickerCloudinary](https://github.com/godswillokokon/ImagePickerCloudinary)
+- [uploade image to cloudinary using multer by phantware · Pull Request #6 · phantware/reflection_API](https://github.com/phantware/reflection_API/pull/6)
+- [Add cloudinary and restframework settings by IanMK-1 · Pull Request #1 · Bryan4real/neighbourhood-watch-backend](https://github.com/Bryan4real/neighbourhood-watch-backend/pull/1)
+
 
 ## Companies
 
