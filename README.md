@@ -353,6 +353,14 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Full Dynamic music player online and offline, apk& aia file || Koduler, First Online Creator..](https://www.youtube.com/watch?v=Pp4S6UhDeb0)
 - [Pt 5-Building your own Instagram - Implementing Authentication, Posts,Profile page on client](https://www.youtube.com/watch?v=GTK1cNhdIN8)
 - [How you can turn on YouTube monetization in a short period of time means four hours of watch time.](https://www.youtube.com/watch?v=TGQnzIqQYEY)
+- [Drag and Drop Image uploader using React, Dropzone and Cloudinary](https://www.youtube.com/watch?v=gmvYb4z8LK0)
+- [Remove the background of a Picture/Image in 3 seconds without Photoshop, on your Phone / Computer](https://www.youtube.com/watch?v=aVuXnnTTn8Q)
+- [Tutorial - Adding Text Overlays to Images with Cloudinary's Management Console](https://www.youtube.com/watch?v=LQ4GTyhz6tY)
+- [Better Assets with Cloudinary & GraphQL (with Domitrius Clark) — Learn With Jason](https://www.youtube.com/watch?v=lVi8KVeSTF4)
+- [Alip_Ba_Ta REACT || Gigi Rindukan Damai (FingerStyle) || Chapruk TV](https://www.youtube.com/watch?v=OsHlasdAD2Y)
+- [Colocando Categorias no Aplicativo Delivery - Kodular](https://www.youtube.com/watch?v=GMzspOO29NU)
+- [Community Calendar Labs23 Prisma Cloud + Apollo Heroku Setup 15APR20](https://www.youtube.com/watch?v=P-Gs0efamjo)
+- [egghead Talks: Full Stack Development in the Era of Serverless Computing](https://egghead.io/lessons/egghead-egghead-talks-full-stack-development-in-the-era-of-serverless-computing)
 
 ## Showcase
 
