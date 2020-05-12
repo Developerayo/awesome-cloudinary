@@ -18,6 +18,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 
 - [Community](#community)
 - [Articles](#articles)
+- [Articles (International)] (#Articles-(International))
 - [Books](#books)
 - [Videos](#videos)
 - [Showcase](#showcase)
@@ -325,6 +326,8 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Automation Hacks for DevOps Teams - DevOps.com](https://devops.com/automation-hacks-for-devops-teams/)
 - [💻 How I Built My Blog with Gatsby and Ghost](https://www.conordewey.com/blog/building-my-blog-with-gatsby-and-ghost/)
 - [Making ‘Real-Time’ Personalization Possible](https://www.martechadvisor.com/articles/customer-experience-2/making-real-time-personalization-possible/)
+
+# Articles (International)
 
 ## Books
 
