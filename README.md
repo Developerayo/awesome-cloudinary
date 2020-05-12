@@ -18,7 +18,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 
 - [Community](#community)
 - [Articles](#articles)
-- [Articles (International)] (#Articles-(International))
+- [Articles (International)](#Articles-(International))
 - [Books](#books)
 - [Videos](#videos)
 - [Showcase](#showcase)
