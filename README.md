@@ -549,7 +549,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 
 ## Companies
 
-> List of a few companies using Cloudinary
+> List of a few companies publicly using Cloudinary
 
 - [TechCrunch](http://techcrunch.com/)
 - [TED Conferences LLC](http://ted.com/)
