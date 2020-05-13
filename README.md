@@ -95,7 +95,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
   Many of my dives into Cloudinary's amazing API like Instagram-like Filters, Image Security, Custom
   eCommerce, have started with uploading media (images, video, audio) to Cloudinary and then
   manipulating from there.
-- [Cloudinary: I rebuilt my portfolio🌻 Now it loads in 1.6s 🎉 Here's how I did](https://dev.to/saurabhdaware/i-rebuilt-my-portfolio-now-it-has-100-lighthouse-score-here-s-how-i-did-477a) -
+- [Cloudinary: I rebuilt my portfolio Now it loads in 1.6s Here's how I did](https://dev.to/saurabhdaware/i-rebuilt-my-portfolio-now-it-has-100-lighthouse-score-here-s-how-i-did-477a) -
   Note: This article is only intended to explain how I am loading my site. These steps may change as
   per your use case
 - [Services for your JAMstack Application](https://dev.to/fullstack_to/services-for-your-jamstack-application-45e5)
