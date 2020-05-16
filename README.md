@@ -429,7 +429,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [Upload an image to Cloudinary](https://www.youtube.com/watch?v=OBbyMSKBC1g)
 
 ## Showcase
-> Showcase anything you have built in this section by opening up a PR
+> Showcase anything you have built in this section by opening up a PR :)
 
 - [Mocktail](https://jordanmerrick.com/shortcuts/mocktail/)
 - [Gutenberging](http://damianfallon.blogspot.com/2020/02/gutenberging.html)
