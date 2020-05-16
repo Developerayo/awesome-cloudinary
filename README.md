@@ -534,7 +534,7 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [limiw/open-source-discussions](https://github.com/limiw/open-source-discussions/blob/master/digital-asset-management-what-it-is-and-how-it-can-help-your-business.md)
 - [day4/cloudinary](https://packagist.org/packages/day4/cloudinary)
 - [komfy/cloudinary](https://github.com/komfy/cloudinary)
-- [使用 BeiDa firebase 和 cloudinary by sabgkang · Pull Request #1 · BeiDa-uGym/BeiDa-couponWebAdmin2](https://github.com/BeiDa-uGym/BeiDa-couponWebAdmin2/pull/1)
+- [使用 BeiDa firebase 和 cloudinary by sabgkang](https://github.com/BeiDa-uGym/BeiDa-couponWebAdmin2/pull/1)
 - [ramaprashanth](https://stackshare.io/ramaprashanth/stacks)
 - [frederic2ec/ghost-on-heroku](https://elements.heroku.com/buttons/frederic2ec/ghost-on-heroku)
 - [vue-js-israel/meetups](https://github.com/vue-js-israel/meetups/blob/master/feb_2020_meetup.md)
