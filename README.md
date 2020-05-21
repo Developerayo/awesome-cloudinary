@@ -546,6 +546,8 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 - [OsamaAdam98/indie-photographers](https://github.com/OsamaAdam98/indie-photographers)
 - [KeyError at /api/v1/plan/weekly 'user_id' Request Method: GET Request URL: - Pastebin.com](https://pastebin.com/AGXwGLre)
 - [ngx-picture](https://www.npmjs.com/package/ngx-picture)
+- [react-native-nigeria-community/react-native-cloudinary-image-picker](https://github.com/react-native-nigeria-community/react-native-cloudinary-image-picker/blob/master/README.md)
+
 
 ## Companies
 
