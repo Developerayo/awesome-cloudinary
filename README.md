@@ -457,6 +457,8 @@ like [awesome-nuxtjs](https://github.com/Developerayo/awesome-nuxtjs)._
 ## Tools
 > List of tools and libraries for Cloudinary
 
+
+- [Laravel SDK for Cloudinary](https://github.com/cloudinary-labs/cloudinary-laravel)
 - [Cloudinary NPM](https://www.npmjs.com/package/cloudinary)
 - [Cloudinary React Library NPM](https://www.npmjs.com/package/cloudinary-react)
 - [Magento Cloudinary Image & Video Management](https://marketplace.magento.com/cloudinary-cloudinary.html)
